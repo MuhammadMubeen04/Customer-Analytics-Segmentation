@@ -1,0 +1,801 @@
+CustomerID,CustomerName,Gender,Age,AgeGroup,City,State,Region,JoinDate,Recency,Frequency,Monetary,AvgOrderValue,FirstPurchase,LastPurchase,RecencyStatus,Cluster,Segment
+C00001,Linda Smith,Female,32,26-35,New York,NY,East,2024-02-01,318,4,1333.76,333.44,2022-05-21,2024-08-15,At Risk (180+),1,Potential / Occasional
+C00002,Sarah Davis,Female,38,36-45,Los Angeles,CA,West,2024-02-05,351,2,280.04,140.02,2022-11-01,2024-07-13,At Risk (180+),1,Potential / Occasional
+C00003,Joseph Jones,Male,28,26-35,Chicago,IL,Central,2021-05-02,455,3,420.02,140.01,2022-09-08,2024-03-31,At Risk (180+),1,Potential / Occasional
+C00004,Michael Perez,Male,57,56-65,Houston,TX,South,2021-03-29,53,4,1189.67,297.42,2022-12-02,2025-05-07,Warm (31-90),1,Potential / Occasional
+C00005,Paul Williams,Male,19,18-25,Phoenix,AZ,West,2021-05-11,451,7,1919.64,274.23,2022-02-09,2024-04-04,At Risk (180+),3,Loyal Frequent
+C00006,Donna Wilson,Female,55,46-55,Philadelphia,PA,East,2021-12-10,17,6,1281.04,213.51,2023-11-02,2025-06-12,Active (0-30),3,Loyal Frequent
+C00007,John Smith,Male,38,36-45,San Antonio,TX,South,2022-01-21,15,19,8763.24,461.22,2022-02-23,2025-06-14,Active (0-30),0,High-Value Champions
+C00008,Jennifer Miller,Male,39,36-45,San Diego,CA,West,2024-03-30,161,2,458.99,229.5,2023-11-19,2025-01-19,Cool (91-180),1,Potential / Occasional
+C00009,Joseph Taylor,Male,66,65+,Dallas,TX,South,2021-09-10,17,7,1644.18,234.88,2023-05-14,2025-06-12,Active (0-30),3,Loyal Frequent
+C00010,Joshua Smith,Female,59,56-65,San Jose,CA,West,2022-04-20,337,2,358.77,179.38,2023-01-18,2024-07-27,At Risk (180+),1,Potential / Occasional
+C00011,Emily Miller,Male,64,56-65,Austin,TX,South,2022-12-01,61,14,7503.5,535.96,2022-10-15,2025-04-29,Warm (31-90),0,High-Value Champions
+C00012,Paul Wilson,Male,72,65+,Jacksonville,FL,South,2023-08-16,400,1,94.08,94.08,2024-05-25,2024-05-25,At Risk (180+),1,Potential / Occasional
+C00013,Joseph Anderson,Male,54,46-55,Fort Worth,TX,South,2023-04-12,29,11,6344.9,576.81,2022-12-06,2025-05-31,Active (0-30),0,High-Value Champions
+C00014,Donna Rodriguez,Male,56,56-65,Columbus,OH,Central,2022-10-09,29,19,9815.56,516.61,2022-02-17,2025-05-31,Active (0-30),0,High-Value Champions
+C00015,James Harris,Female,31,26-35,Charlotte,NC,South,2022-01-23,259,1,130.82,130.82,2024-10-13,2024-10-13,At Risk (180+),1,Potential / Occasional
+C00016,David Thompson,Male,43,36-45,Seattle,WA,West,2021-08-30,65,2,155.9,77.95,2025-03-01,2025-04-25,Warm (31-90),1,Potential / Occasional
+C00017,Margaret Hernandez,Male,45,36-45,Denver,CO,West,2022-07-19,538,2,237.11,118.56,2022-02-22,2024-01-08,At Risk (180+),2,Low-Value / At-Risk
+C00018,Sarah Jones,Male,25,18-25,Boston,MA,East,2023-08-14,370,4,1329.14,332.28,2022-09-04,2024-06-24,At Risk (180+),1,Potential / Occasional
+C00019,Susan Harris,Female,53,46-55,Nashville,TN,South,2021-02-04,158,13,5880.2,452.32,2022-10-03,2025-01-22,Cool (91-180),0,High-Value Champions
+C00020,Nancy Brown,Male,71,65+,Detroit,MI,Central,2023-10-23,537,2,431.58,215.79,2022-11-04,2024-01-09,At Risk (180+),2,Low-Value / At-Risk
+C00021,Jennifer Gonzalez,Female,46,46-55,New York,NY,East,2024-02-04,372,4,997.78,249.44,2022-04-17,2024-06-22,At Risk (180+),1,Potential / Occasional
+C00022,Michael Lopez,Female,61,56-65,Los Angeles,CA,West,2022-12-04,770,1,77.51,77.51,2023-05-21,2023-05-21,At Risk (180+),2,Low-Value / At-Risk
+C00023,Daniel Martin,Male,53,46-55,Chicago,IL,Central,2021-06-11,133,8,3176.6,397.08,2022-02-27,2025-02-16,Cool (91-180),3,Loyal Frequent
+C00024,Thomas Sanchez,Female,32,26-35,Houston,TX,South,2021-09-27,1024,1,136.88,136.88,2022-09-09,2022-09-09,At Risk (180+),2,Low-Value / At-Risk
+C00025,John White,Female,74,65+,Phoenix,AZ,West,2022-04-01,2,8,3752.24,469.03,2022-06-01,2025-06-27,Active (0-30),3,Loyal Frequent
+C00026,Sandra Moore,Female,62,56-65,Philadelphia,PA,East,2021-10-23,6,3,381.71,127.24,2022-06-11,2025-06-23,Active (0-30),1,Potential / Occasional
+C00027,Linda Robinson,Female,41,36-45,San Antonio,TX,South,2021-12-04,487,4,902.33,225.58,2022-05-29,2024-02-28,At Risk (180+),1,Potential / Occasional
+C00028,Matthew Williams,Male,62,56-65,San Diego,CA,West,2021-08-05,651,1,59.25,59.25,2023-09-17,2023-09-17,At Risk (180+),2,Low-Value / At-Risk
+C00029,Emily Martinez,Male,62,56-65,Dallas,TX,South,2023-12-01,1084,2,529.25,264.62,2022-04-01,2022-07-11,At Risk (180+),2,Low-Value / At-Risk
+C00030,Michelle Lewis,Male,26,26-35,San Jose,CA,West,2021-03-06,72,2,74.38,37.19,2022-07-11,2025-04-18,Warm (31-90),1,Potential / Occasional
+C00031,Lisa Jackson,Male,41,36-45,Austin,TX,South,2024-02-27,727,1,26.09,26.09,2023-07-03,2023-07-03,At Risk (180+),2,Low-Value / At-Risk
+C00032,Richard Thompson,Female,34,26-35,Jacksonville,FL,South,2023-12-23,55,2,292.21,146.1,2024-03-29,2025-05-05,Warm (31-90),1,Potential / Occasional
+C00033,Robert Johnson,Female,50,46-55,Fort Worth,TX,South,2022-01-27,385,2,211.83,105.92,2024-01-02,2024-06-09,At Risk (180+),1,Potential / Occasional
+C00034,Joseph Harris,Male,56,56-65,Columbus,OH,Central,2022-01-14,578,2,201.38,100.69,2023-06-27,2023-11-29,At Risk (180+),2,Low-Value / At-Risk
+C00035,Charles Williams,Male,24,18-25,Charlotte,NC,South,2023-10-15,13,14,6922.5,494.46,2022-01-08,2025-06-16,Active (0-30),0,High-Value Champions
+C00036,Joseph Ramirez,Female,51,46-55,Seattle,WA,West,2021-07-20,1154,1,102.53,102.53,2022-05-02,2022-05-02,At Risk (180+),2,Low-Value / At-Risk
+C00037,Michael Gonzalez,Male,40,36-45,Denver,CO,West,2023-11-23,111,2,489.76,244.88,2022-12-29,2025-03-10,Cool (91-180),1,Potential / Occasional
+C00038,Sarah Anderson,Female,57,56-65,Boston,MA,East,2023-03-16,22,16,11685.07,730.32,2022-08-25,2025-06-07,Active (0-30),0,High-Value Champions
+C00039,Lisa Garcia,Female,18,18-25,Nashville,TN,South,2022-12-27,19,7,1771.0,253.0,2023-01-10,2025-06-10,Active (0-30),3,Loyal Frequent
+C00040,Lisa Lopez,Female,20,18-25,Detroit,MI,Central,2022-09-05,72,16,7575.31,473.46,2022-01-17,2025-04-18,Warm (31-90),0,High-Value Champions
+C00041,Susan Perez,Female,31,26-35,New York,NY,East,2023-10-26,231,2,315.24,157.62,2022-10-12,2024-11-10,At Risk (180+),1,Potential / Occasional
+C00042,Sarah Thompson,Male,32,26-35,Los Angeles,CA,West,2023-05-21,222,2,207.98,103.99,2024-07-06,2024-11-19,At Risk (180+),1,Potential / Occasional
+C00043,Robert Martin,Male,30,26-35,Chicago,IL,Central,2023-11-05,81,19,11504.59,605.5,2022-01-04,2025-04-09,Warm (31-90),0,High-Value Champions
+C00044,David Moore,Female,69,65+,Houston,TX,South,2023-05-14,156,13,6286.73,483.59,2022-02-05,2025-01-24,Cool (91-180),0,High-Value Champions
+C00045,Jessica Garcia,Female,47,46-55,Phoenix,AZ,West,2023-10-18,110,6,1534.89,255.82,2023-10-25,2025-03-11,Cool (91-180),3,Loyal Frequent
+C00046,Sandra Gonzalez,Male,62,56-65,Philadelphia,PA,East,2022-04-30,476,5,1697.27,339.45,2022-02-12,2024-03-10,At Risk (180+),1,Potential / Occasional
+C00047,Sarah Robinson,Male,30,26-35,San Antonio,TX,South,2024-04-09,51,5,1516.47,303.29,2023-06-12,2025-05-09,Warm (31-90),3,Loyal Frequent
+C00048,Emily Davis,Female,68,65+,San Diego,CA,West,2024-03-29,424,2,147.33,73.66,2022-02-27,2024-05-01,At Risk (180+),1,Potential / Occasional
+C00049,Christopher Clark,Female,59,56-65,Dallas,TX,South,2024-01-15,48,11,4716.44,428.77,2022-02-21,2025-05-12,Warm (31-90),3,Loyal Frequent
+C00050,Patricia Davis,Male,70,65+,San Jose,CA,West,2022-07-11,37,11,4968.9,451.72,2022-04-28,2025-05-23,Warm (31-90),0,High-Value Champions
+C00051,John Sanchez,Male,61,56-65,Austin,TX,South,2022-10-08,159,4,1128.13,282.03,2023-07-30,2025-01-21,Cool (91-180),1,Potential / Occasional
+C00052,Christopher Gonzalez,Male,74,65+,Jacksonville,FL,South,2021-07-09,267,11,5252.89,477.54,2022-03-12,2024-10-05,At Risk (180+),0,High-Value Champions
+C00053,Sarah Williams,Female,58,56-65,Fort Worth,TX,South,2022-09-25,371,6,1695.19,282.53,2022-02-02,2024-06-23,At Risk (180+),3,Loyal Frequent
+C00054,Susan Robinson,Female,26,26-35,Columbus,OH,Central,2022-12-11,395,5,1073.4,214.68,2022-06-21,2024-05-30,At Risk (180+),1,Potential / Occasional
+C00055,Andrew Lewis,Male,68,65+,Charlotte,NC,South,2021-11-14,167,1,166.68,166.68,2025-01-13,2025-01-13,Cool (91-180),1,Potential / Occasional
+C00056,Christopher Miller,Male,71,65+,Seattle,WA,West,2022-11-15,1052,1,114.45,114.45,2022-08-12,2022-08-12,At Risk (180+),2,Low-Value / At-Risk
+C00057,Ashley Gonzalez,Male,69,65+,Denver,CO,West,2024-02-11,322,1,32.69,32.69,2024-08-11,2024-08-11,At Risk (180+),1,Potential / Occasional
+C00058,Sandra Jones,Male,73,65+,Boston,MA,East,2024-02-11,3,19,9331.6,491.14,2022-01-12,2025-06-26,Active (0-30),0,High-Value Champions
+C00059,Thomas Jones,Male,19,18-25,Nashville,TN,South,2024-01-10,303,2,217.43,108.72,2024-03-23,2024-08-30,At Risk (180+),1,Potential / Occasional
+C00060,Jessica White,Male,40,36-45,Detroit,MI,Central,2022-10-04,105,2,210.35,105.18,2024-11-03,2025-03-16,Cool (91-180),1,Potential / Occasional
+C00061,Emily Moore,Male,19,18-25,New York,NY,East,2022-01-20,337,1,353.14,353.14,2024-07-27,2024-07-27,At Risk (180+),1,Potential / Occasional
+C00062,Thomas White,Female,49,46-55,Los Angeles,CA,West,2023-12-13,385,3,644.88,214.96,2022-03-17,2024-06-09,At Risk (180+),1,Potential / Occasional
+C00063,Donna Wilson,Female,28,26-35,Chicago,IL,Central,2021-09-04,436,4,942.39,235.6,2022-11-06,2024-04-19,At Risk (180+),1,Potential / Occasional
+C00064,Donna Gonzalez,Male,55,46-55,Houston,TX,South,2021-05-03,357,2,213.39,106.7,2023-10-25,2024-07-07,At Risk (180+),1,Potential / Occasional
+C00065,Lisa Davis,Male,51,46-55,Phoenix,AZ,West,2021-10-07,27,2,343.2,171.6,2024-03-23,2025-06-02,Active (0-30),1,Potential / Occasional
+C00066,William Taylor,Male,65,56-65,Philadelphia,PA,East,2021-07-17,743,4,722.02,180.5,2022-12-09,2023-06-17,At Risk (180+),2,Low-Value / At-Risk
+C00067,Ashley Williams,Female,23,18-25,San Antonio,TX,South,2021-05-24,70,12,5617.49,468.12,2022-01-28,2025-04-20,Warm (31-90),0,High-Value Champions
+C00068,Patricia Ramirez,Male,37,36-45,San Diego,CA,West,2022-04-09,183,5,1458.43,291.69,2022-01-15,2024-12-28,At Risk (180+),3,Loyal Frequent
+C00069,Linda Jones,Female,36,36-45,Dallas,TX,South,2023-02-03,46,13,5824.56,448.04,2022-03-14,2025-05-14,Warm (31-90),0,High-Value Champions
+C00070,David Sanchez,Male,24,18-25,San Jose,CA,West,2021-05-27,325,2,488.96,244.48,2023-01-19,2024-08-08,At Risk (180+),1,Potential / Occasional
+C00071,Margaret Martin,Female,56,56-65,Austin,TX,South,2022-05-04,406,1,164.73,164.73,2024-05-19,2024-05-19,At Risk (180+),1,Potential / Occasional
+C00072,Robert Gonzalez,Female,28,26-35,Jacksonville,FL,South,2021-12-04,108,2,470.8,235.4,2023-08-18,2025-03-13,Cool (91-180),1,Potential / Occasional
+C00073,Matthew Martin,Male,48,46-55,Fort Worth,TX,South,2022-04-18,126,4,1457.53,364.38,2022-11-27,2025-02-23,Cool (91-180),1,Potential / Occasional
+C00074,Sandra Taylor,Female,43,36-45,Columbus,OH,Central,2021-09-20,377,1,33.6,33.6,2024-06-17,2024-06-17,At Risk (180+),1,Potential / Occasional
+C00075,Thomas Moore,Female,66,65+,Charlotte,NC,South,2022-09-16,371,3,434.77,144.92,2022-06-28,2024-06-23,At Risk (180+),1,Potential / Occasional
+C00076,James Perez,Female,29,26-35,Seattle,WA,West,2021-01-02,568,2,347.14,173.57,2023-09-08,2023-12-09,At Risk (180+),2,Low-Value / At-Risk
+C00077,Linda Perez,Female,72,65+,Denver,CO,West,2022-03-29,22,2,158.82,79.41,2024-04-22,2025-06-07,Active (0-30),1,Potential / Occasional
+C00078,Paul Harris,Male,36,36-45,Boston,MA,East,2021-01-09,1052,2,544.73,272.36,2022-06-14,2022-08-12,At Risk (180+),2,Low-Value / At-Risk
+C00079,Sarah Harris,Female,37,36-45,Nashville,TN,South,2023-03-27,157,5,1853.88,370.78,2022-04-26,2025-01-23,Cool (91-180),3,Loyal Frequent
+C00080,Nancy Brown,Male,50,46-55,Detroit,MI,Central,2021-06-01,30,4,677.97,169.49,2022-03-20,2025-05-30,Active (0-30),1,Potential / Occasional
+C00081,Charles Wilson,Male,25,18-25,New York,NY,East,2022-09-20,158,3,213.98,71.33,2022-11-06,2025-01-22,Cool (91-180),1,Potential / Occasional
+C00082,David Anderson,Female,52,46-55,Los Angeles,CA,West,2021-04-14,120,7,1621.56,231.65,2023-03-24,2025-03-01,Cool (91-180),3,Loyal Frequent
+C00083,James White,Male,52,46-55,Chicago,IL,Central,2024-02-10,120,6,1521.81,253.64,2022-02-28,2025-03-01,Cool (91-180),3,Loyal Frequent
+C00084,Thomas Taylor,Male,63,56-65,Houston,TX,South,2021-06-02,234,8,2375.77,296.97,2022-02-21,2024-11-07,At Risk (180+),3,Loyal Frequent
+C00085,Barbara Taylor,Female,52,46-55,Phoenix,AZ,West,2021-12-04,40,8,4084.62,510.58,2022-03-24,2025-05-20,Warm (31-90),3,Loyal Frequent
+C00086,Michael Ramirez,Male,50,46-55,Philadelphia,PA,East,2023-08-15,90,7,2050.28,292.9,2022-11-17,2025-03-31,Warm (31-90),3,Loyal Frequent
+C00087,Karen Clark,Female,65,56-65,San Antonio,TX,South,2023-03-12,403,2,283.28,141.64,2022-05-05,2024-05-22,At Risk (180+),1,Potential / Occasional
+C00088,Steven Martin,Female,50,46-55,San Diego,CA,West,2024-03-04,61,15,8152.44,543.5,2022-02-01,2025-04-29,Warm (31-90),0,High-Value Champions
+C00089,Richard Jones,Male,68,65+,Dallas,TX,South,2022-11-19,37,2,259.16,129.58,2022-05-10,2025-05-23,Warm (31-90),1,Potential / Occasional
+C00090,Lisa Harris,Male,63,56-65,San Jose,CA,West,2022-04-15,135,6,852.42,142.07,2023-01-01,2025-02-14,Cool (91-180),3,Loyal Frequent
+C00091,David Moore,Female,68,65+,Austin,TX,South,2021-02-07,363,2,92.27,46.14,2023-10-23,2024-07-01,At Risk (180+),1,Potential / Occasional
+C00092,Kimberly Robinson,Female,44,36-45,Jacksonville,FL,South,2022-03-14,257,2,344.3,172.15,2022-03-14,2024-10-15,At Risk (180+),1,Potential / Occasional
+C00093,James Martin,Male,50,46-55,Fort Worth,TX,South,2021-08-14,279,3,465.34,155.11,2022-09-22,2024-09-23,At Risk (180+),1,Potential / Occasional
+C00094,Christopher Thomas,Female,50,46-55,Columbus,OH,Central,2021-10-11,118,10,5191.49,519.15,2022-05-24,2025-03-03,Cool (91-180),3,Loyal Frequent
+C00095,Mary Brown,Male,65,56-65,Charlotte,NC,South,2022-03-29,1208,1,256.75,256.75,2022-03-09,2022-03-09,At Risk (180+),2,Low-Value / At-Risk
+C00096,Lisa Lewis,Female,66,65+,Seattle,WA,West,2022-10-21,69,6,1898.48,316.41,2022-03-28,2025-04-21,Warm (31-90),3,Loyal Frequent
+C00097,Karen Davis,Female,47,46-55,Denver,CO,West,2021-01-17,97,11,6538.07,594.37,2022-03-19,2025-03-24,Cool (91-180),0,High-Value Champions
+C00098,Patricia Davis,Male,23,18-25,Boston,MA,East,2022-04-22,14,4,1038.74,259.68,2024-05-20,2025-06-15,Active (0-30),1,Potential / Occasional
+C00099,Andrew Williams,Female,54,46-55,Nashville,TN,South,2021-04-09,140,6,1278.41,213.07,2022-09-10,2025-02-09,Cool (91-180),3,Loyal Frequent
+C00100,Jennifer White,Male,63,56-65,Detroit,MI,Central,2021-10-07,232,4,1678.74,419.68,2022-03-27,2024-11-09,At Risk (180+),1,Potential / Occasional
+C00101,Ashley Clark,Female,50,46-55,New York,NY,East,2021-06-30,201,5,1731.67,346.33,2022-02-08,2024-12-10,At Risk (180+),3,Loyal Frequent
+C00102,Robert Harris,Male,38,36-45,Los Angeles,CA,West,2024-02-14,64,19,9889.46,520.5,2022-01-25,2025-04-26,Warm (31-90),0,High-Value Champions
+C00103,Paul Harris,Female,20,18-25,Chicago,IL,Central,2023-07-17,516,2,515.92,257.96,2023-12-11,2024-01-30,At Risk (180+),2,Low-Value / At-Risk
+C00104,William Jones,Male,59,56-65,Houston,TX,South,2021-05-08,15,4,1009.95,252.49,2022-03-09,2025-06-14,Active (0-30),1,Potential / Occasional
+C00105,Donald Moore,Female,57,56-65,Phoenix,AZ,West,2022-07-20,26,5,982.7,196.54,2022-10-11,2025-06-03,Active (0-30),1,Potential / Occasional
+C00106,David Rodriguez,Male,49,46-55,Philadelphia,PA,East,2022-11-17,71,7,1993.36,284.77,2022-04-11,2025-04-19,Warm (31-90),3,Loyal Frequent
+C00107,Kimberly Ramirez,Male,44,36-45,San Antonio,TX,South,2023-05-04,183,3,203.84,67.95,2022-08-14,2024-12-28,At Risk (180+),1,Potential / Occasional
+C00108,Joshua Wilson,Female,34,26-35,San Diego,CA,West,2022-05-05,13,6,1778.91,296.48,2022-08-03,2025-06-16,Active (0-30),3,Loyal Frequent
+C00109,Susan Robinson,Female,60,56-65,Dallas,TX,South,2024-02-02,6,6,2242.1,373.68,2023-06-12,2025-06-23,Active (0-30),3,Loyal Frequent
+C00110,Paul Harris,Male,46,46-55,San Jose,CA,West,2021-09-03,245,4,1171.15,292.79,2022-02-06,2024-10-27,At Risk (180+),1,Potential / Occasional
+C00111,Richard Thompson,Male,67,65+,Austin,TX,South,2023-01-29,174,4,715.96,178.99,2022-02-11,2025-01-06,Cool (91-180),1,Potential / Occasional
+C00112,Karen Gonzalez,Female,24,18-25,Jacksonville,FL,South,2023-07-10,14,8,3709.51,463.69,2022-04-05,2025-06-15,Active (0-30),3,Loyal Frequent
+C00113,Lisa Anderson,Female,18,18-25,Fort Worth,TX,South,2021-02-05,195,2,187.15,93.58,2022-10-04,2024-12-16,At Risk (180+),1,Potential / Occasional
+C00114,Kimberly Anderson,Male,31,26-35,Columbus,OH,Central,2022-05-27,54,7,1365.04,195.01,2022-07-20,2025-05-06,Warm (31-90),3,Loyal Frequent
+C00115,Linda Davis,Female,32,26-35,Charlotte,NC,South,2023-08-30,171,2,309.17,154.58,2023-02-27,2025-01-09,Cool (91-180),1,Potential / Occasional
+C00116,Joseph Williams,Female,49,46-55,Seattle,WA,West,2024-01-21,73,16,8174.46,510.9,2022-04-19,2025-04-17,Warm (31-90),0,High-Value Champions
+C00117,Nancy Smith,Female,68,65+,Denver,CO,West,2022-12-28,1136,2,317.97,158.99,2022-03-29,2022-05-20,At Risk (180+),2,Low-Value / At-Risk
+C00118,Donna Moore,Female,39,36-45,Boston,MA,East,2022-07-29,773,4,1513.07,378.27,2022-11-23,2023-05-18,At Risk (180+),2,Low-Value / At-Risk
+C00119,Joseph Jackson,Female,66,65+,Nashville,TN,South,2021-11-10,174,4,815.64,203.91,2022-02-14,2025-01-06,Cool (91-180),1,Potential / Occasional
+C00120,Joseph Smith,Female,71,65+,Detroit,MI,Central,2022-11-13,248,9,3446.17,382.91,2022-06-20,2024-10-24,At Risk (180+),3,Loyal Frequent
+C00121,Robert Thompson,Male,50,46-55,New York,NY,East,2023-09-30,583,5,980.87,196.17,2022-03-25,2023-11-24,At Risk (180+),2,Low-Value / At-Risk
+C00122,Patricia Davis,Female,61,56-65,Los Angeles,CA,West,2021-09-21,437,4,1104.16,276.04,2022-06-11,2024-04-18,At Risk (180+),1,Potential / Occasional
+C00123,Robert Lewis,Male,23,18-25,Chicago,IL,Central,2021-01-05,13,12,6093.42,507.78,2022-03-23,2025-06-16,Active (0-30),0,High-Value Champions
+C00124,John Ramirez,Male,47,46-55,Houston,TX,South,2023-05-27,726,2,344.29,172.14,2022-08-12,2023-07-04,At Risk (180+),2,Low-Value / At-Risk
+C00125,Nancy Williams,Female,57,56-65,Phoenix,AZ,West,2021-02-16,64,11,6187.55,562.5,2022-01-21,2025-04-26,Warm (31-90),0,High-Value Champions
+C00126,Steven Davis,Female,59,56-65,Philadelphia,PA,East,2022-10-18,270,2,428.6,214.3,2024-04-17,2024-10-02,At Risk (180+),1,Potential / Occasional
+C00127,Sarah Perez,Male,36,36-45,San Antonio,TX,South,2022-10-19,22,6,2089.04,348.17,2022-06-04,2025-06-07,Active (0-30),3,Loyal Frequent
+C00128,Ashley Miller,Male,54,46-55,San Diego,CA,West,2023-12-18,3,8,2792.76,349.1,2022-08-13,2025-06-26,Active (0-30),3,Loyal Frequent
+C00129,Paul Jones,Male,26,26-35,Dallas,TX,South,2021-04-27,288,5,1084.1,216.82,2022-08-04,2024-09-14,At Risk (180+),1,Potential / Occasional
+C00130,Andrew Jackson,Male,18,18-25,San Jose,CA,West,2023-10-10,40,19,10899.64,573.67,2022-02-05,2025-05-20,Warm (31-90),0,High-Value Champions
+C00131,Donald Davis,Male,71,65+,Austin,TX,South,2023-03-13,64,6,993.32,165.55,2022-02-08,2025-04-26,Warm (31-90),3,Loyal Frequent
+C00132,Donald Sanchez,Male,62,56-65,Jacksonville,FL,South,2022-07-14,521,2,230.86,115.43,2022-05-20,2024-01-25,At Risk (180+),2,Low-Value / At-Risk
+C00133,Anthony Miller,Female,56,56-65,Fort Worth,TX,South,2023-06-16,183,2,294.12,147.06,2023-05-21,2024-12-28,At Risk (180+),1,Potential / Occasional
+C00134,Michael Brown,Female,39,36-45,Columbus,OH,Central,2022-12-05,138,6,1736.41,289.4,2022-04-10,2025-02-11,Cool (91-180),3,Loyal Frequent
+C00135,Margaret Lopez,Male,29,26-35,Charlotte,NC,South,2023-05-11,160,2,137.48,68.74,2024-09-24,2025-01-20,Cool (91-180),1,Potential / Occasional
+C00136,Margaret Wilson,Male,54,46-55,Seattle,WA,West,2021-06-03,349,8,3503.78,437.97,2022-02-27,2024-07-15,At Risk (180+),3,Loyal Frequent
+C00137,Sandra Ramirez,Male,31,26-35,Denver,CO,West,2024-01-15,54,17,8873.21,521.95,2022-01-18,2025-05-06,Warm (31-90),0,High-Value Champions
+C00138,Patricia Perez,Male,47,46-55,Boston,MA,East,2023-12-29,6,12,6332.53,527.71,2022-03-20,2025-06-23,Active (0-30),0,High-Value Champions
+C00139,Michael Johnson,Female,29,26-35,Nashville,TN,South,2023-08-16,79,3,340.06,113.35,2022-01-29,2025-04-11,Warm (31-90),1,Potential / Occasional
+C00140,Betty White,Male,65,56-65,Detroit,MI,Central,2023-07-01,20,5,1170.23,234.05,2022-03-05,2025-06-09,Active (0-30),3,Loyal Frequent
+C00141,Nancy Sanchez,Male,50,46-55,New York,NY,East,2021-12-07,483,1,17.39,17.39,2024-03-03,2024-03-03,At Risk (180+),1,Potential / Occasional
+C00142,Michael Davis,Male,27,26-35,Los Angeles,CA,West,2021-12-23,418,3,332.3,110.77,2022-07-17,2024-05-07,At Risk (180+),1,Potential / Occasional
+C00143,Richard Miller,Male,48,46-55,Chicago,IL,Central,2024-01-29,314,2,123.03,61.52,2023-01-14,2024-08-19,At Risk (180+),1,Potential / Occasional
+C00144,Paul Anderson,Female,49,46-55,Houston,TX,South,2023-02-01,78,4,1243.54,310.88,2022-03-10,2025-04-12,Warm (31-90),1,Potential / Occasional
+C00145,William Wilson,Female,62,56-65,Phoenix,AZ,West,2023-02-08,226,4,1410.28,352.57,2023-10-22,2024-11-15,At Risk (180+),1,Potential / Occasional
+C00146,Barbara Rodriguez,Female,33,26-35,Philadelphia,PA,East,2022-05-31,276,9,5381.48,597.94,2022-03-10,2024-09-26,At Risk (180+),3,Loyal Frequent
+C00147,Sandra Davis,Male,49,46-55,San Antonio,TX,South,2021-09-15,298,7,1846.05,263.72,2023-02-02,2024-09-04,At Risk (180+),3,Loyal Frequent
+C00148,Robert Anderson,Female,67,65+,San Diego,CA,West,2023-05-02,179,3,329.09,109.7,2023-08-12,2025-01-01,Cool (91-180),1,Potential / Occasional
+C00149,Emily Brown,Male,68,65+,Dallas,TX,South,2022-01-15,355,2,143.92,71.96,2024-05-08,2024-07-09,At Risk (180+),1,Potential / Occasional
+C00150,Patricia Lee,Female,61,56-65,San Jose,CA,West,2024-04-06,684,1,249.11,249.11,2023-08-15,2023-08-15,At Risk (180+),2,Low-Value / At-Risk
+C00151,Paul Clark,Male,48,46-55,Austin,TX,South,2021-10-12,447,6,886.3,147.72,2022-08-16,2024-04-08,At Risk (180+),1,Potential / Occasional
+C00152,James Williams,Female,40,36-45,Jacksonville,FL,South,2022-05-14,70,2,134.9,67.45,2024-09-17,2025-04-20,Warm (31-90),1,Potential / Occasional
+C00153,Jessica Garcia,Female,46,46-55,Fort Worth,TX,South,2023-04-29,215,8,5174.0,646.75,2022-01-25,2024-11-26,At Risk (180+),3,Loyal Frequent
+C00154,Anthony Thomas,Male,51,46-55,Columbus,OH,Central,2023-08-28,122,12,7611.39,634.28,2022-01-21,2025-02-27,Cool (91-180),0,High-Value Champions
+C00155,Donald Miller,Male,21,18-25,Charlotte,NC,South,2021-04-25,622,3,372.3,124.1,2023-02-11,2023-10-16,At Risk (180+),2,Low-Value / At-Risk
+C00156,Betty Lewis,Female,62,56-65,Seattle,WA,West,2023-04-06,905,1,73.29,73.29,2023-01-06,2023-01-06,At Risk (180+),2,Low-Value / At-Risk
+C00157,Patricia Garcia,Female,53,46-55,Denver,CO,West,2024-01-04,1047,1,46.08,46.08,2022-08-17,2022-08-17,At Risk (180+),2,Low-Value / At-Risk
+C00158,Matthew Smith,Female,74,65+,Boston,MA,East,2022-12-30,205,9,3893.73,432.64,2022-04-10,2024-12-06,At Risk (180+),3,Loyal Frequent
+C00159,Matthew Rodriguez,Male,26,26-35,Nashville,TN,South,2022-11-07,140,3,338.15,112.72,2023-04-21,2025-02-09,Cool (91-180),1,Potential / Occasional
+C00160,Sandra Martinez,Female,66,65+,Detroit,MI,Central,2023-07-09,12,4,1438.06,359.52,2023-02-07,2025-06-17,Active (0-30),1,Potential / Occasional
+C00161,Margaret Thompson,Male,35,26-35,New York,NY,East,2024-01-28,178,5,1612.94,322.59,2022-04-15,2025-01-02,Cool (91-180),3,Loyal Frequent
+C00162,Emily Perez,Female,41,36-45,Los Angeles,CA,West,2023-10-06,513,3,230.5,76.83,2023-12-14,2024-02-02,At Risk (180+),2,Low-Value / At-Risk
+C00163,Ashley Jones,Female,54,46-55,Chicago,IL,Central,2022-10-25,244,8,3483.33,435.42,2022-02-07,2024-10-28,At Risk (180+),3,Loyal Frequent
+C00164,Richard Martinez,Female,58,56-65,Houston,TX,South,2021-10-06,173,4,557.8,139.45,2022-11-04,2025-01-07,Cool (91-180),1,Potential / Occasional
+C00165,Susan Johnson,Female,42,36-45,Phoenix,AZ,West,2021-03-03,131,4,975.62,243.9,2023-09-22,2025-02-18,Cool (91-180),1,Potential / Occasional
+C00166,Donna White,Female,66,65+,Philadelphia,PA,East,2022-02-01,17,11,7127.39,647.94,2022-08-20,2025-06-12,Active (0-30),0,High-Value Champions
+C00167,Paul Johnson,Female,36,36-45,San Antonio,TX,South,2022-01-31,107,15,8054.98,537.0,2022-03-03,2025-03-14,Cool (91-180),0,High-Value Champions
+C00168,Christopher Johnson,Male,45,36-45,San Diego,CA,West,2021-03-17,3,2,183.11,91.56,2022-04-06,2025-06-26,Active (0-30),1,Potential / Occasional
+C00169,Patricia Jackson,Female,69,65+,Dallas,TX,South,2022-12-19,882,2,206.33,103.16,2022-05-13,2023-01-29,At Risk (180+),2,Low-Value / At-Risk
+C00170,Donald Taylor,Female,33,26-35,San Jose,CA,West,2023-05-01,300,1,178.67,178.67,2024-09-02,2024-09-02,At Risk (180+),1,Potential / Occasional
+C00171,Kimberly Garcia,Male,29,26-35,Austin,TX,South,2023-06-04,488,1,55.23,55.23,2024-02-27,2024-02-27,At Risk (180+),1,Potential / Occasional
+C00172,Patricia Taylor,Female,38,36-45,Jacksonville,FL,South,2023-11-15,1114,1,116.73,116.73,2022-06-11,2022-06-11,At Risk (180+),2,Low-Value / At-Risk
+C00173,Jennifer Ramirez,Female,56,56-65,Fort Worth,TX,South,2024-03-20,198,1,125.46,125.46,2024-12-13,2024-12-13,At Risk (180+),1,Potential / Occasional
+C00174,Barbara Williams,Female,56,56-65,Columbus,OH,Central,2021-04-19,1163,1,47.05,47.05,2022-04-23,2022-04-23,At Risk (180+),2,Low-Value / At-Risk
+C00175,Joshua Williams,Female,22,18-25,Charlotte,NC,South,2022-02-02,40,4,963.21,240.8,2023-03-19,2025-05-20,Warm (31-90),1,Potential / Occasional
+C00176,Jessica Gonzalez,Female,60,56-65,Seattle,WA,West,2024-04-01,404,4,1283.81,320.95,2022-09-24,2024-05-21,At Risk (180+),1,Potential / Occasional
+C00177,Linda Lewis,Female,26,26-35,Denver,CO,West,2022-10-20,593,2,130.48,65.24,2022-10-30,2023-11-14,At Risk (180+),2,Low-Value / At-Risk
+C00178,Andrew Davis,Female,34,26-35,Boston,MA,East,2024-01-03,114,8,5098.34,637.29,2022-02-04,2025-03-07,Cool (91-180),3,Loyal Frequent
+C00179,Donna Martin,Female,59,56-65,Nashville,TN,South,2024-04-12,336,2,571.32,285.66,2022-01-29,2024-07-28,At Risk (180+),1,Potential / Occasional
+C00180,John Martin,Female,19,18-25,Detroit,MI,Central,2023-08-04,175,4,1275.07,318.77,2022-12-25,2025-01-05,Cool (91-180),1,Potential / Occasional
+C00181,Jennifer Wilson,Male,36,36-45,New York,NY,East,2021-01-29,99,2,184.35,92.18,2022-06-14,2025-03-22,Cool (91-180),1,Potential / Occasional
+C00182,Donna Jackson,Male,24,18-25,Los Angeles,CA,West,2022-05-15,746,1,279.23,279.23,2023-06-14,2023-06-14,At Risk (180+),2,Low-Value / At-Risk
+C00183,Kimberly Hernandez,Female,53,46-55,Chicago,IL,Central,2021-08-05,246,6,1825.43,304.24,2023-08-21,2024-10-26,At Risk (180+),3,Loyal Frequent
+C00184,Thomas Miller,Female,36,36-45,Houston,TX,South,2023-12-30,1006,1,32.79,32.79,2022-09-27,2022-09-27,At Risk (180+),2,Low-Value / At-Risk
+C00185,Christopher Davis,Male,56,56-65,Phoenix,AZ,West,2022-03-21,108,11,4461.94,405.63,2022-04-23,2025-03-13,Cool (91-180),3,Loyal Frequent
+C00186,Thomas Gonzalez,Male,36,36-45,Philadelphia,PA,East,2021-04-01,127,2,226.97,113.48,2022-11-17,2025-02-22,Cool (91-180),1,Potential / Occasional
+C00187,William Perez,Male,62,56-65,San Antonio,TX,South,2021-02-08,59,3,382.93,127.64,2024-02-18,2025-05-01,Warm (31-90),1,Potential / Occasional
+C00188,Karen Anderson,Male,37,36-45,San Diego,CA,West,2022-10-15,111,8,5400.01,675.0,2023-02-19,2025-03-10,Cool (91-180),3,Loyal Frequent
+C00189,Christopher Robinson,Female,58,56-65,Dallas,TX,South,2022-04-21,39,2,347.71,173.86,2024-12-24,2025-05-21,Warm (31-90),1,Potential / Occasional
+C00190,Robert Smith,Female,45,36-45,San Jose,CA,West,2023-10-22,87,10,4704.17,470.42,2022-02-25,2025-04-03,Warm (31-90),3,Loyal Frequent
+C00191,Sandra Martin,Male,66,65+,Austin,TX,South,2021-07-09,297,5,823.62,164.72,2022-04-15,2024-09-05,At Risk (180+),1,Potential / Occasional
+C00192,Andrew Brown,Female,70,65+,Jacksonville,FL,South,2023-04-04,638,2,100.46,50.23,2023-01-06,2023-09-30,At Risk (180+),2,Low-Value / At-Risk
+C00193,Robert Moore,Female,62,56-65,Fort Worth,TX,South,2021-05-14,51,11,5079.29,461.75,2022-02-06,2025-05-09,Warm (31-90),0,High-Value Champions
+C00194,Susan Taylor,Female,64,56-65,Columbus,OH,Central,2022-11-03,190,7,2294.39,327.77,2023-10-01,2024-12-21,At Risk (180+),3,Loyal Frequent
+C00195,Thomas Jones,Male,38,36-45,Charlotte,NC,South,2024-03-18,86,16,7323.58,457.72,2022-07-07,2025-04-04,Warm (31-90),0,High-Value Champions
+C00196,Daniel Lewis,Female,53,46-55,Seattle,WA,West,2021-07-22,98,2,292.22,146.11,2024-02-28,2025-03-23,Cool (91-180),1,Potential / Occasional
+C00197,Robert Lewis,Female,31,26-35,Denver,CO,West,2021-02-16,517,2,161.09,80.54,2023-12-09,2024-01-29,At Risk (180+),2,Low-Value / At-Risk
+C00198,Jessica Lopez,Male,70,65+,Boston,MA,East,2024-03-12,767,1,156.51,156.51,2023-05-24,2023-05-24,At Risk (180+),2,Low-Value / At-Risk
+C00199,Charles Garcia,Female,28,26-35,Nashville,TN,South,2022-10-18,42,14,7626.01,544.72,2022-01-20,2025-05-18,Warm (31-90),0,High-Value Champions
+C00200,Mark Clark,Female,33,26-35,Detroit,MI,Central,2023-11-02,16,3,242.05,80.68,2023-05-14,2025-06-13,Active (0-30),1,Potential / Occasional
+C00201,Paul Thompson,Male,41,36-45,New York,NY,East,2023-08-26,179,4,1732.73,433.18,2023-12-16,2025-01-01,Cool (91-180),1,Potential / Occasional
+C00202,Karen Martin,Male,45,36-45,Los Angeles,CA,West,2022-10-30,175,10,5019.55,501.96,2022-02-12,2025-01-05,Cool (91-180),3,Loyal Frequent
+C00203,Kimberly Smith,Male,67,65+,Chicago,IL,Central,2022-11-07,321,1,225.95,225.95,2024-08-12,2024-08-12,At Risk (180+),1,Potential / Occasional
+C00204,Emily Martinez,Male,58,56-65,Houston,TX,South,2022-06-24,291,8,3398.88,424.86,2022-09-06,2024-09-11,At Risk (180+),3,Loyal Frequent
+C00205,Michael Lewis,Female,71,65+,Phoenix,AZ,West,2023-01-10,653,2,269.42,134.71,2023-05-10,2023-09-15,At Risk (180+),2,Low-Value / At-Risk
+C00206,William Rodriguez,Female,50,46-55,Philadelphia,PA,East,2023-08-17,1005,2,166.53,83.26,2022-05-13,2022-09-28,At Risk (180+),2,Low-Value / At-Risk
+C00207,Linda Lewis,Female,46,46-55,San Antonio,TX,South,2022-04-06,94,3,280.46,93.49,2022-02-10,2025-03-27,Cool (91-180),1,Potential / Occasional
+C00208,Michael White,Female,23,18-25,San Diego,CA,West,2023-06-28,353,1,49.8,49.8,2024-07-11,2024-07-11,At Risk (180+),1,Potential / Occasional
+C00209,Emily Jones,Female,64,56-65,Dallas,TX,South,2023-06-02,61,3,174.61,58.2,2023-09-13,2025-04-29,Warm (31-90),1,Potential / Occasional
+C00210,Sarah Martinez,Male,47,46-55,San Jose,CA,West,2022-03-26,648,6,1824.56,304.09,2022-05-06,2023-09-20,At Risk (180+),2,Low-Value / At-Risk
+C00211,Joshua Miller,Male,73,65+,Austin,TX,South,2023-05-27,1129,1,131.6,131.6,2022-05-27,2022-05-27,At Risk (180+),2,Low-Value / At-Risk
+C00212,Nancy Miller,Female,49,46-55,Jacksonville,FL,South,2022-01-09,45,4,1256.84,314.21,2022-03-15,2025-05-15,Warm (31-90),1,Potential / Occasional
+C00213,Thomas Taylor,Male,43,36-45,Fort Worth,TX,South,2021-06-26,23,19,9096.64,478.77,2022-03-27,2025-06-06,Active (0-30),0,High-Value Champions
+C00214,Ashley Rodriguez,Male,44,36-45,Columbus,OH,Central,2021-03-04,89,4,1377.41,344.35,2024-01-05,2025-04-01,Warm (31-90),1,Potential / Occasional
+C00215,Patricia Williams,Female,51,46-55,Charlotte,NC,South,2022-11-20,12,19,9253.29,487.02,2022-09-01,2025-06-17,Active (0-30),0,High-Value Champions
+C00216,Margaret Clark,Male,18,18-25,Seattle,WA,West,2021-04-15,31,2,112.49,56.24,2024-11-02,2025-05-29,Warm (31-90),1,Potential / Occasional
+C00217,Sarah Johnson,Male,23,18-25,Denver,CO,West,2022-02-09,834,4,933.16,233.29,2022-03-01,2023-03-18,At Risk (180+),2,Low-Value / At-Risk
+C00218,James Hernandez,Female,48,46-55,Boston,MA,East,2022-04-21,87,3,124.9,41.63,2022-07-26,2025-04-03,Warm (31-90),1,Potential / Occasional
+C00219,William Lee,Female,54,46-55,Nashville,TN,South,2023-02-10,529,2,256.61,128.3,2022-07-06,2024-01-17,At Risk (180+),2,Low-Value / At-Risk
+C00220,Thomas Garcia,Female,36,36-45,Detroit,MI,Central,2022-11-08,743,2,270.36,135.18,2023-01-20,2023-06-17,At Risk (180+),2,Low-Value / At-Risk
+C00221,Mark Moore,Male,26,26-35,New York,NY,East,2024-03-14,294,3,277.5,92.5,2024-03-14,2024-09-08,At Risk (180+),1,Potential / Occasional
+C00222,Margaret Moore,Female,30,26-35,Los Angeles,CA,West,2021-01-01,562,1,213.75,213.75,2023-12-15,2023-12-15,At Risk (180+),2,Low-Value / At-Risk
+C00223,James Brown,Female,49,46-55,Chicago,IL,Central,2022-03-25,94,6,1516.5,252.75,2022-02-18,2025-03-27,Cool (91-180),3,Loyal Frequent
+C00224,Robert Lewis,Male,25,18-25,Houston,TX,South,2021-02-03,250,1,99.17,99.17,2024-10-22,2024-10-22,At Risk (180+),1,Potential / Occasional
+C00225,Elizabeth Moore,Female,71,65+,Phoenix,AZ,West,2021-06-03,312,8,3600.53,450.07,2023-02-21,2024-08-21,At Risk (180+),3,Loyal Frequent
+C00226,John Clark,Female,67,65+,Philadelphia,PA,East,2021-04-28,33,3,479.0,159.67,2023-07-12,2025-05-27,Warm (31-90),1,Potential / Occasional
+C00227,Lisa Jackson,Female,61,56-65,San Antonio,TX,South,2021-09-25,456,4,1505.6,376.4,2022-04-27,2024-03-30,At Risk (180+),1,Potential / Occasional
+C00228,Emily Jones,Male,74,65+,San Diego,CA,West,2022-01-24,596,8,2628.68,328.58,2022-05-27,2023-11-11,At Risk (180+),3,Loyal Frequent
+C00229,Margaret Jones,Male,64,56-65,Dallas,TX,South,2022-02-05,172,4,930.27,232.57,2023-09-11,2025-01-08,Cool (91-180),1,Potential / Occasional
+C00230,John Martinez,Female,38,36-45,San Jose,CA,West,2023-07-08,162,10,4961.68,496.17,2022-05-14,2025-01-18,Cool (91-180),3,Loyal Frequent
+C00231,Lisa Lewis,Female,56,56-65,Austin,TX,South,2022-08-01,985,1,68.52,68.52,2022-10-18,2022-10-18,At Risk (180+),2,Low-Value / At-Risk
+C00232,John Lewis,Female,67,65+,Jacksonville,FL,South,2023-02-03,784,1,310.53,310.53,2023-05-07,2023-05-07,At Risk (180+),2,Low-Value / At-Risk
+C00233,Daniel Miller,Female,32,26-35,Fort Worth,TX,South,2021-04-08,888,3,212.06,70.69,2022-06-25,2023-01-23,At Risk (180+),2,Low-Value / At-Risk
+C00234,Jessica Perez,Male,51,46-55,Columbus,OH,Central,2023-05-09,824,1,250.01,250.01,2023-03-28,2023-03-28,At Risk (180+),2,Low-Value / At-Risk
+C00235,Michael Lopez,Female,41,36-45,Charlotte,NC,South,2021-09-06,1235,1,120.0,120.0,2022-02-10,2022-02-10,At Risk (180+),2,Low-Value / At-Risk
+C00236,Emily Lewis,Male,59,56-65,Seattle,WA,West,2023-10-17,191,7,2840.66,405.81,2022-02-24,2024-12-20,At Risk (180+),3,Loyal Frequent
+C00237,Anthony Martin,Female,21,18-25,Denver,CO,West,2021-03-22,712,2,137.57,68.78,2023-04-17,2023-07-18,At Risk (180+),2,Low-Value / At-Risk
+C00238,Elizabeth Robinson,Female,27,26-35,Boston,MA,East,2021-05-18,284,1,82.42,82.42,2024-09-18,2024-09-18,At Risk (180+),1,Potential / Occasional
+C00239,Jessica Ramirez,Male,41,36-45,Nashville,TN,South,2023-02-24,4,8,3932.49,491.56,2022-05-01,2025-06-25,Active (0-30),3,Loyal Frequent
+C00240,David Sanchez,Female,70,65+,Detroit,MI,Central,2021-03-10,378,8,4547.04,568.38,2022-03-26,2024-06-16,At Risk (180+),3,Loyal Frequent
+C00241,Barbara Lewis,Male,60,56-65,New York,NY,East,2021-07-24,786,2,446.02,223.01,2023-05-01,2023-05-05,At Risk (180+),2,Low-Value / At-Risk
+C00242,Anthony Smith,Male,72,65+,Los Angeles,CA,West,2021-04-21,98,2,309.12,154.56,2023-05-08,2025-03-23,Cool (91-180),1,Potential / Occasional
+C00243,Barbara White,Male,71,65+,Chicago,IL,Central,2023-04-28,422,2,414.93,207.46,2023-08-06,2024-05-03,At Risk (180+),1,Potential / Occasional
+C00244,Nancy Sanchez,Male,73,65+,Houston,TX,South,2023-06-19,129,14,7432.07,530.86,2022-07-11,2025-02-20,Cool (91-180),0,High-Value Champions
+C00245,Anthony Sanchez,Female,20,18-25,Phoenix,AZ,West,2021-10-08,23,11,4363.7,396.7,2022-02-02,2025-06-06,Active (0-30),3,Loyal Frequent
+C00246,Jessica Rodriguez,Female,67,65+,Philadelphia,PA,East,2022-10-29,127,3,255.91,85.3,2023-12-29,2025-02-22,Cool (91-180),1,Potential / Occasional
+C00247,David Sanchez,Male,36,36-45,San Antonio,TX,South,2021-03-02,364,2,70.12,35.06,2022-03-30,2024-06-30,At Risk (180+),1,Potential / Occasional
+C00248,Michael Gonzalez,Male,59,56-65,San Diego,CA,West,2023-10-26,175,3,336.76,112.25,2022-06-03,2025-01-05,Cool (91-180),1,Potential / Occasional
+C00249,John Ramirez,Male,18,18-25,Dallas,TX,South,2022-06-18,69,19,10122.94,532.79,2022-03-31,2025-04-21,Warm (31-90),0,High-Value Champions
+C00250,Donald Davis,Male,43,36-45,San Jose,CA,West,2022-10-07,315,2,150.82,75.41,2023-04-21,2024-08-18,At Risk (180+),1,Potential / Occasional
+C00251,Richard Clark,Male,31,26-35,Austin,TX,South,2023-12-06,41,17,9273.03,545.47,2022-07-07,2025-05-19,Warm (31-90),0,High-Value Champions
+C00252,Sandra Lopez,Male,64,56-65,Jacksonville,FL,South,2024-01-02,538,4,895.11,223.78,2022-01-31,2024-01-08,At Risk (180+),2,Low-Value / At-Risk
+C00253,Karen Clark,Female,73,65+,Fort Worth,TX,South,2024-02-19,1251,1,103.59,103.59,2022-01-25,2022-01-25,At Risk (180+),2,Low-Value / At-Risk
+C00254,Joseph Davis,Male,65,56-65,Columbus,OH,Central,2021-12-16,2,3,690.12,230.04,2023-05-17,2025-06-27,Active (0-30),1,Potential / Occasional
+C00255,Mary Perez,Male,18,18-25,Charlotte,NC,South,2021-12-03,530,6,1624.59,270.76,2022-08-21,2024-01-16,At Risk (180+),3,Loyal Frequent
+C00256,Richard Gonzalez,Female,69,65+,Seattle,WA,West,2021-01-08,476,3,418.64,139.55,2023-05-06,2024-03-10,At Risk (180+),1,Potential / Occasional
+C00257,Nancy Rodriguez,Female,73,65+,Denver,CO,West,2022-12-20,235,3,516.54,172.18,2024-07-06,2024-11-06,At Risk (180+),1,Potential / Occasional
+C00258,Robert Harris,Male,45,36-45,Boston,MA,East,2022-12-27,89,14,6742.56,481.61,2022-04-11,2025-04-01,Warm (31-90),0,High-Value Champions
+C00259,Sarah Lopez,Male,62,56-65,Nashville,TN,South,2021-03-19,374,2,535.39,267.7,2022-01-29,2024-06-20,At Risk (180+),1,Potential / Occasional
+C00260,Steven Gonzalez,Male,73,65+,Detroit,MI,Central,2022-10-28,363,2,178.34,89.17,2022-05-31,2024-07-01,At Risk (180+),1,Potential / Occasional
+C00261,Paul Hernandez,Female,64,56-65,New York,NY,East,2023-06-02,600,2,356.46,178.23,2023-05-09,2023-11-07,At Risk (180+),2,Low-Value / At-Risk
+C00262,Mary Brown,Female,64,56-65,Los Angeles,CA,West,2023-07-08,726,2,482.19,241.1,2022-04-05,2023-07-04,At Risk (180+),2,Low-Value / At-Risk
+C00263,Thomas Garcia,Female,32,26-35,Chicago,IL,Central,2023-03-17,130,8,3262.08,407.76,2022-07-09,2025-02-19,Cool (91-180),3,Loyal Frequent
+C00264,Donna Rodriguez,Male,56,56-65,Houston,TX,South,2022-04-30,3,4,931.66,232.92,2022-03-02,2025-06-26,Active (0-30),1,Potential / Occasional
+C00265,John Brown,Male,61,56-65,Phoenix,AZ,West,2021-03-27,353,4,928.37,232.09,2022-08-09,2024-07-11,At Risk (180+),1,Potential / Occasional
+C00266,Joshua Wilson,Female,37,36-45,Philadelphia,PA,East,2022-06-21,52,3,510.96,170.32,2023-02-20,2025-05-08,Warm (31-90),1,Potential / Occasional
+C00267,Daniel White,Female,20,18-25,San Antonio,TX,South,2021-01-25,181,2,290.86,145.43,2022-06-11,2024-12-30,At Risk (180+),1,Potential / Occasional
+C00268,Christopher Wilson,Female,64,56-65,San Diego,CA,West,2021-08-21,31,4,1147.06,286.76,2022-01-12,2025-05-29,Warm (31-90),1,Potential / Occasional
+C00269,Joshua Taylor,Female,51,46-55,Dallas,TX,South,2021-08-16,385,2,482.12,241.06,2022-03-03,2024-06-09,At Risk (180+),1,Potential / Occasional
+C00270,Linda Gonzalez,Female,66,65+,San Jose,CA,West,2022-09-15,31,12,7555.18,629.6,2022-01-01,2025-05-29,Warm (31-90),0,High-Value Champions
+C00271,Andrew Miller,Male,58,56-65,Austin,TX,South,2023-01-18,317,3,378.37,126.12,2022-11-28,2024-08-16,At Risk (180+),1,Potential / Occasional
+C00272,Thomas Johnson,Male,43,36-45,Jacksonville,FL,South,2022-09-05,442,2,277.64,138.82,2023-03-31,2024-04-13,At Risk (180+),1,Potential / Occasional
+C00273,Margaret Smith,Female,54,46-55,Fort Worth,TX,South,2021-11-11,191,8,3361.02,420.13,2022-09-15,2024-12-20,At Risk (180+),3,Loyal Frequent
+C00274,Kimberly Robinson,Male,23,18-25,Columbus,OH,Central,2022-10-24,274,2,318.35,159.17,2022-09-22,2024-09-28,At Risk (180+),1,Potential / Occasional
+C00275,Paul Perez,Male,28,26-35,Charlotte,NC,South,2022-09-16,163,3,286.74,95.58,2022-07-10,2025-01-17,Cool (91-180),1,Potential / Occasional
+C00276,Richard Lopez,Male,72,65+,Seattle,WA,West,2021-12-16,193,6,2250.76,375.13,2022-02-23,2024-12-18,At Risk (180+),3,Loyal Frequent
+C00277,Margaret Williams,Male,68,65+,Denver,CO,West,2024-03-06,361,1,46.34,46.34,2024-07-03,2024-07-03,At Risk (180+),1,Potential / Occasional
+C00278,Nancy Martin,Male,53,46-55,Boston,MA,East,2022-06-27,244,1,107.38,107.38,2024-10-28,2024-10-28,At Risk (180+),1,Potential / Occasional
+C00279,Christopher Perez,Male,19,18-25,Nashville,TN,South,2023-07-09,42,5,1312.15,262.43,2022-05-02,2025-05-18,Warm (31-90),3,Loyal Frequent
+C00280,Linda White,Female,21,18-25,Detroit,MI,Central,2022-04-13,240,7,1493.71,213.39,2022-01-18,2024-11-01,At Risk (180+),3,Loyal Frequent
+C00281,Karen Taylor,Female,47,46-55,New York,NY,East,2022-10-08,72,5,1301.51,260.3,2022-02-28,2025-04-18,Warm (31-90),3,Loyal Frequent
+C00282,Karen Perez,Female,74,65+,Los Angeles,CA,West,2022-05-19,124,8,3367.97,421.0,2022-06-16,2025-02-25,Cool (91-180),3,Loyal Frequent
+C00283,Anthony Hernandez,Female,25,18-25,Chicago,IL,Central,2021-07-13,70,2,507.08,253.54,2023-12-15,2025-04-20,Warm (31-90),1,Potential / Occasional
+C00284,Betty Thompson,Male,61,56-65,Houston,TX,South,2023-11-16,1181,1,29.82,29.82,2022-04-05,2022-04-05,At Risk (180+),2,Low-Value / At-Risk
+C00285,Charles Moore,Female,21,18-25,Phoenix,AZ,West,2021-11-22,335,1,98.7,98.7,2024-07-29,2024-07-29,At Risk (180+),1,Potential / Occasional
+C00286,William Miller,Female,66,65+,Philadelphia,PA,East,2022-12-25,74,19,11155.4,587.13,2022-03-13,2025-04-16,Warm (31-90),0,High-Value Champions
+C00287,Anthony Perez,Male,43,36-45,San Antonio,TX,South,2021-05-20,228,6,2055.91,342.65,2022-09-13,2024-11-13,At Risk (180+),3,Loyal Frequent
+C00288,Matthew Perez,Male,54,46-55,San Diego,CA,West,2022-10-16,31,6,1798.89,299.82,2022-06-21,2025-05-29,Warm (31-90),3,Loyal Frequent
+C00289,Barbara Martin,Female,30,26-35,Dallas,TX,South,2021-05-19,233,2,367.47,183.74,2022-06-28,2024-11-08,At Risk (180+),1,Potential / Occasional
+C00290,Andrew Martinez,Male,67,65+,San Jose,CA,West,2021-09-16,56,12,5205.27,433.77,2022-01-11,2025-05-04,Warm (31-90),0,High-Value Champions
+C00291,Betty Moore,Female,27,26-35,Austin,TX,South,2021-01-10,539,3,247.8,82.6,2022-07-26,2024-01-07,At Risk (180+),2,Low-Value / At-Risk
+C00292,James Martinez,Male,57,56-65,Jacksonville,FL,South,2021-06-21,111,2,406.97,203.48,2022-03-23,2025-03-10,Cool (91-180),1,Potential / Occasional
+C00293,Charles Miller,Male,26,26-35,Fort Worth,TX,South,2021-11-17,77,12,5909.01,492.42,2022-09-02,2025-04-13,Warm (31-90),0,High-Value Champions
+C00294,Margaret Sanchez,Male,32,26-35,Columbus,OH,Central,2023-02-24,82,6,1863.08,310.51,2022-09-16,2025-04-08,Warm (31-90),3,Loyal Frequent
+C00295,Donna Martin,Female,61,56-65,Charlotte,NC,South,2024-01-24,630,2,251.72,125.86,2022-06-28,2023-10-08,At Risk (180+),2,Low-Value / At-Risk
+C00296,Christopher Anderson,Female,28,26-35,Seattle,WA,West,2021-11-30,164,6,1362.9,227.15,2022-03-17,2025-01-16,Cool (91-180),3,Loyal Frequent
+C00297,Mark Anderson,Male,52,46-55,Denver,CO,West,2024-03-06,31,6,1544.32,257.39,2022-01-27,2025-05-29,Warm (31-90),3,Loyal Frequent
+C00298,Susan Taylor,Female,39,36-45,Boston,MA,East,2022-05-28,401,5,945.11,189.02,2022-07-16,2024-05-24,At Risk (180+),1,Potential / Occasional
+C00299,Donald Sanchez,Female,47,46-55,Nashville,TN,South,2023-05-23,59,6,1873.71,312.29,2022-09-16,2025-05-01,Warm (31-90),3,Loyal Frequent
+C00300,David Perez,Male,36,36-45,Detroit,MI,Central,2022-12-26,28,12,4604.09,383.67,2022-08-19,2025-06-01,Active (0-30),0,High-Value Champions
+C00301,Jennifer Martinez,Female,21,18-25,New York,NY,East,2021-03-19,143,8,4675.69,584.46,2022-04-08,2025-02-06,Cool (91-180),3,Loyal Frequent
+C00302,Steven Perez,Female,42,36-45,Los Angeles,CA,West,2022-08-24,1101,1,134.51,134.51,2022-06-24,2022-06-24,At Risk (180+),2,Low-Value / At-Risk
+C00303,Michelle Hernandez,Female,56,56-65,Chicago,IL,Central,2022-02-06,1221,1,93.44,93.44,2022-02-24,2022-02-24,At Risk (180+),2,Low-Value / At-Risk
+C00304,Jennifer Clark,Male,68,65+,Houston,TX,South,2022-09-08,608,3,644.09,214.7,2022-01-28,2023-10-30,At Risk (180+),2,Low-Value / At-Risk
+C00305,Jessica Perez,Female,32,26-35,Phoenix,AZ,West,2022-02-26,980,2,274.7,137.35,2022-04-11,2022-10-23,At Risk (180+),2,Low-Value / At-Risk
+C00306,Karen Davis,Male,50,46-55,Philadelphia,PA,East,2023-09-20,178,1,25.0,25.0,2025-01-02,2025-01-02,Cool (91-180),1,Potential / Occasional
+C00307,Richard Jones,Male,31,26-35,San Antonio,TX,South,2023-10-04,38,3,481.59,160.53,2022-08-21,2025-05-22,Warm (31-90),1,Potential / Occasional
+C00308,Mary Johnson,Female,68,65+,San Diego,CA,West,2023-04-01,258,8,3447.72,430.96,2022-12-01,2024-10-14,At Risk (180+),3,Loyal Frequent
+C00309,Jessica Thomas,Male,23,18-25,Dallas,TX,South,2023-11-29,122,2,85.9,42.95,2024-09-14,2025-02-27,Cool (91-180),1,Potential / Occasional
+C00310,Michelle Ramirez,Female,25,18-25,San Jose,CA,West,2022-08-02,137,2,93.76,46.88,2022-11-21,2025-02-12,Cool (91-180),1,Potential / Occasional
+C00311,Robert Anderson,Male,32,26-35,Austin,TX,South,2022-07-08,80,2,295.29,147.65,2022-10-11,2025-04-10,Warm (31-90),1,Potential / Occasional
+C00312,Anthony Lewis,Female,53,46-55,Jacksonville,FL,South,2022-04-23,387,3,347.55,115.85,2023-07-13,2024-06-07,At Risk (180+),1,Potential / Occasional
+C00313,Andrew Miller,Male,50,46-55,Fort Worth,TX,South,2021-06-06,205,6,1090.03,181.67,2023-06-08,2024-12-06,At Risk (180+),3,Loyal Frequent
+C00314,Matthew Thomas,Male,72,65+,Columbus,OH,Central,2023-10-18,20,5,1227.21,245.44,2024-02-01,2025-06-09,Active (0-30),3,Loyal Frequent
+C00315,Betty Davis,Male,39,36-45,Charlotte,NC,South,2021-10-16,218,6,2195.45,365.91,2022-11-26,2024-11-23,At Risk (180+),3,Loyal Frequent
+C00316,Elizabeth Lee,Female,50,46-55,Seattle,WA,West,2022-06-01,36,8,2014.59,251.82,2022-01-27,2025-05-24,Warm (31-90),3,Loyal Frequent
+C00317,James Lewis,Female,48,46-55,Denver,CO,West,2024-02-16,133,7,2160.82,308.69,2022-06-06,2025-02-16,Cool (91-180),3,Loyal Frequent
+C00318,Michael Harris,Female,41,36-45,Boston,MA,East,2023-03-26,35,6,1604.86,267.48,2022-01-16,2025-05-25,Warm (31-90),3,Loyal Frequent
+C00319,Margaret Davis,Male,46,46-55,Nashville,TN,South,2023-08-06,628,4,1074.09,268.52,2022-01-21,2023-10-10,At Risk (180+),2,Low-Value / At-Risk
+C00320,Barbara Sanchez,Male,29,26-35,Detroit,MI,Central,2024-03-26,72,8,2908.02,363.5,2023-06-30,2025-04-18,Warm (31-90),3,Loyal Frequent
+C00321,Kimberly Anderson,Male,68,65+,New York,NY,East,2021-05-10,230,4,1455.98,364.0,2022-05-13,2024-11-11,At Risk (180+),1,Potential / Occasional
+C00322,Patricia Moore,Female,43,36-45,Los Angeles,CA,West,2023-01-25,512,2,169.23,84.62,2023-10-07,2024-02-03,At Risk (180+),2,Low-Value / At-Risk
+C00323,Jessica Robinson,Female,27,26-35,Chicago,IL,Central,2021-03-10,295,2,251.06,125.53,2022-09-07,2024-09-07,At Risk (180+),1,Potential / Occasional
+C00324,Linda Anderson,Female,25,18-25,Houston,TX,South,2023-05-22,454,2,48.06,24.03,2022-12-09,2024-04-01,At Risk (180+),1,Potential / Occasional
+C00325,William Sanchez,Male,63,56-65,Phoenix,AZ,West,2021-01-23,664,2,163.47,81.74,2022-06-22,2023-09-04,At Risk (180+),2,Low-Value / At-Risk
+C00326,Sandra Perez,Male,30,26-35,Philadelphia,PA,East,2021-12-29,1265,1,237.75,237.75,2022-01-11,2022-01-11,At Risk (180+),2,Low-Value / At-Risk
+C00327,Kimberly Moore,Male,50,46-55,San Antonio,TX,South,2023-08-16,84,8,3391.1,423.89,2022-11-15,2025-04-06,Warm (31-90),3,Loyal Frequent
+C00328,Joshua Hernandez,Female,61,56-65,San Diego,CA,West,2023-04-08,146,12,6792.46,566.04,2022-02-26,2025-02-03,Cool (91-180),0,High-Value Champions
+C00329,Mark Martin,Female,22,18-25,Dallas,TX,South,2021-12-22,84,3,597.2,199.07,2024-03-17,2025-04-06,Warm (31-90),1,Potential / Occasional
+C00330,Steven Wilson,Male,59,56-65,San Jose,CA,West,2023-06-07,111,6,1872.76,312.13,2022-01-16,2025-03-10,Cool (91-180),3,Loyal Frequent
+C00331,Emily Anderson,Female,26,26-35,Austin,TX,South,2023-10-06,303,1,298.31,298.31,2024-08-30,2024-08-30,At Risk (180+),1,Potential / Occasional
+C00332,David White,Male,31,26-35,Jacksonville,FL,South,2023-10-11,90,7,1571.13,224.45,2023-05-29,2025-03-31,Warm (31-90),3,Loyal Frequent
+C00333,Donald Anderson,Male,63,56-65,Fort Worth,TX,South,2023-02-18,10,13,6631.08,510.08,2022-05-13,2025-06-19,Active (0-30),0,High-Value Champions
+C00334,Thomas Harris,Male,74,65+,Columbus,OH,Central,2022-02-24,90,2,332.74,166.37,2022-07-25,2025-03-31,Warm (31-90),1,Potential / Occasional
+C00335,Jessica Clark,Female,72,65+,Charlotte,NC,South,2023-10-22,166,15,10123.24,674.88,2022-09-05,2025-01-14,Cool (91-180),0,High-Value Champions
+C00336,Sarah Harris,Female,38,36-45,Seattle,WA,West,2022-01-06,337,5,1793.25,358.65,2022-03-25,2024-07-27,At Risk (180+),3,Loyal Frequent
+C00337,Kimberly Thomas,Female,27,26-35,Denver,CO,West,2023-08-27,609,1,166.15,166.15,2023-10-29,2023-10-29,At Risk (180+),2,Low-Value / At-Risk
+C00338,Jessica Rodriguez,Male,58,56-65,Boston,MA,East,2021-11-09,1117,2,201.65,100.82,2022-02-04,2022-06-08,At Risk (180+),2,Low-Value / At-Risk
+C00339,Mark Williams,Male,43,36-45,Nashville,TN,South,2022-07-29,291,2,506.78,253.39,2023-03-07,2024-09-11,At Risk (180+),1,Potential / Occasional
+C00340,Charles Davis,Female,24,18-25,Detroit,MI,Central,2021-03-16,321,2,338.8,169.4,2022-12-26,2024-08-12,At Risk (180+),1,Potential / Occasional
+C00341,Sarah Hernandez,Female,34,26-35,New York,NY,East,2022-04-20,363,3,400.7,133.57,2022-03-10,2024-07-01,At Risk (180+),1,Potential / Occasional
+C00342,Christopher Lewis,Male,61,56-65,Los Angeles,CA,West,2022-10-02,242,4,1206.81,301.7,2022-02-13,2024-10-30,At Risk (180+),1,Potential / Occasional
+C00343,Paul Williams,Male,41,36-45,Chicago,IL,Central,2023-02-02,93,6,1234.05,205.68,2022-03-08,2025-03-28,Cool (91-180),3,Loyal Frequent
+C00344,William Jones,Female,23,18-25,Houston,TX,South,2021-01-25,583,2,339.52,169.76,2023-01-30,2023-11-24,At Risk (180+),2,Low-Value / At-Risk
+C00345,Joseph Gonzalez,Male,60,56-65,Phoenix,AZ,West,2024-03-30,247,4,1407.69,351.92,2022-07-26,2024-10-25,At Risk (180+),1,Potential / Occasional
+C00346,Elizabeth Thompson,Male,67,65+,Philadelphia,PA,East,2022-10-24,135,2,205.01,102.5,2022-07-04,2025-02-14,Cool (91-180),1,Potential / Occasional
+C00347,Susan Williams,Male,37,36-45,San Antonio,TX,South,2023-12-09,201,4,1193.22,298.3,2023-05-19,2024-12-10,At Risk (180+),1,Potential / Occasional
+C00348,Anthony Wilson,Female,39,36-45,San Diego,CA,West,2022-11-20,96,4,484.49,121.12,2024-02-03,2025-03-25,Cool (91-180),1,Potential / Occasional
+C00349,Nancy Moore,Female,57,56-65,Dallas,TX,South,2022-04-21,366,2,172.48,86.24,2022-06-17,2024-06-28,At Risk (180+),1,Potential / Occasional
+C00350,Sandra Wilson,Male,49,46-55,San Jose,CA,West,2022-07-15,42,4,1499.78,374.94,2022-10-09,2025-05-18,Warm (31-90),1,Potential / Occasional
+C00351,Patricia Miller,Male,68,65+,Austin,TX,South,2024-03-10,126,11,5474.31,497.66,2022-03-08,2025-02-23,Cool (91-180),0,High-Value Champions
+C00352,Anthony Gonzalez,Female,49,46-55,Jacksonville,FL,South,2023-08-10,332,8,4138.02,517.25,2022-04-22,2024-08-01,At Risk (180+),3,Loyal Frequent
+C00353,Donna Thompson,Male,62,56-65,Fort Worth,TX,South,2022-11-01,161,2,137.46,68.73,2022-01-31,2025-01-19,Cool (91-180),1,Potential / Occasional
+C00354,Mary Ramirez,Female,36,36-45,Columbus,OH,Central,2021-10-13,187,6,1034.77,172.46,2022-01-16,2024-12-24,At Risk (180+),3,Loyal Frequent
+C00355,Andrew Gonzalez,Male,68,65+,Charlotte,NC,South,2021-01-18,89,2,169.67,84.84,2024-08-20,2025-04-01,Warm (31-90),1,Potential / Occasional
+C00356,Donald Smith,Female,71,65+,Seattle,WA,West,2024-04-13,53,1,60.42,60.42,2025-05-07,2025-05-07,Warm (31-90),1,Potential / Occasional
+C00357,Daniel Martinez,Female,47,46-55,Denver,CO,West,2023-09-15,765,2,342.98,171.49,2022-01-06,2023-05-26,At Risk (180+),2,Low-Value / At-Risk
+C00358,Matthew Ramirez,Male,18,18-25,Boston,MA,East,2023-08-05,469,2,303.89,151.94,2023-02-09,2024-03-17,At Risk (180+),1,Potential / Occasional
+C00359,Anthony Moore,Male,20,18-25,Nashville,TN,South,2023-07-14,464,4,905.86,226.46,2022-03-19,2024-03-22,At Risk (180+),1,Potential / Occasional
+C00360,Paul Sanchez,Male,36,36-45,Detroit,MI,Central,2023-03-11,648,2,281.2,140.6,2023-06-06,2023-09-20,At Risk (180+),2,Low-Value / At-Risk
+C00361,Joshua Lewis,Male,40,36-45,New York,NY,East,2021-06-11,48,12,4895.59,407.97,2022-04-01,2025-05-12,Warm (31-90),0,High-Value Champions
+C00362,Joseph Thomas,Male,67,65+,Los Angeles,CA,West,2021-02-24,333,5,1932.51,386.5,2022-04-24,2024-07-31,At Risk (180+),3,Loyal Frequent
+C00363,Joseph Rodriguez,Male,72,65+,Chicago,IL,Central,2023-10-29,118,6,2119.65,353.28,2022-01-27,2025-03-03,Cool (91-180),3,Loyal Frequent
+C00364,Margaret Thomas,Female,25,18-25,Houston,TX,South,2022-03-19,59,4,935.25,233.81,2023-07-18,2025-05-01,Warm (31-90),1,Potential / Occasional
+C00365,Mary Gonzalez,Male,54,46-55,Phoenix,AZ,West,2023-12-14,854,1,97.03,97.03,2023-02-26,2023-02-26,At Risk (180+),2,Low-Value / At-Risk
+C00366,Nancy Perez,Female,45,36-45,Philadelphia,PA,East,2022-08-02,377,2,231.38,115.69,2023-08-29,2024-06-17,At Risk (180+),1,Potential / Occasional
+C00367,Betty White,Female,52,46-55,San Antonio,TX,South,2023-10-04,294,2,295.66,147.83,2022-03-05,2024-09-08,At Risk (180+),1,Potential / Occasional
+C00368,David Clark,Female,49,46-55,San Diego,CA,West,2021-04-06,58,6,1993.57,332.26,2022-03-17,2025-05-02,Warm (31-90),3,Loyal Frequent
+C00369,Sandra Robinson,Female,33,26-35,Dallas,TX,South,2024-02-18,996,1,125.94,125.94,2022-10-07,2022-10-07,At Risk (180+),2,Low-Value / At-Risk
+C00370,William Martin,Female,71,65+,San Jose,CA,West,2022-03-28,179,4,1133.04,283.26,2022-10-22,2025-01-01,Cool (91-180),1,Potential / Occasional
+C00371,Paul Smith,Male,72,65+,Austin,TX,South,2022-04-14,14,15,6971.18,464.75,2022-01-13,2025-06-15,Active (0-30),0,High-Value Champions
+C00372,Betty Jackson,Male,27,26-35,Jacksonville,FL,South,2023-08-02,276,2,152.67,76.34,2024-05-17,2024-09-26,At Risk (180+),1,Potential / Occasional
+C00373,Andrew Perez,Female,38,36-45,Fort Worth,TX,South,2023-02-14,48,4,1451.01,362.75,2022-10-02,2025-05-12,Warm (31-90),1,Potential / Occasional
+C00374,Mary Williams,Male,36,36-45,Columbus,OH,Central,2021-05-27,53,1,206.7,206.7,2025-05-07,2025-05-07,Warm (31-90),1,Potential / Occasional
+C00375,Margaret Jones,Female,18,18-25,Charlotte,NC,South,2022-12-01,25,4,1138.64,284.66,2022-01-09,2025-06-04,Active (0-30),1,Potential / Occasional
+C00376,Sandra Garcia,Female,28,26-35,Seattle,WA,West,2023-03-26,360,3,285.38,95.13,2022-10-17,2024-07-04,At Risk (180+),1,Potential / Occasional
+C00377,Patricia Rodriguez,Female,20,18-25,Denver,CO,West,2023-01-16,143,7,1516.36,216.62,2022-06-15,2025-02-06,Cool (91-180),3,Loyal Frequent
+C00378,Matthew Hernandez,Male,37,36-45,Boston,MA,East,2022-04-16,50,3,208.1,69.37,2022-06-01,2025-05-10,Warm (31-90),1,Potential / Occasional
+C00379,Susan Anderson,Male,47,46-55,Nashville,TN,South,2021-09-18,110,6,1509.78,251.63,2022-06-14,2025-03-11,Cool (91-180),3,Loyal Frequent
+C00380,Christopher Hernandez,Male,61,56-65,Detroit,MI,Central,2023-06-24,149,2,87.29,43.64,2023-09-04,2025-01-31,Cool (91-180),1,Potential / Occasional
+C00381,Matthew Rodriguez,Female,34,26-35,New York,NY,East,2023-05-04,1102,2,117.63,58.82,2022-03-27,2022-06-23,At Risk (180+),2,Low-Value / At-Risk
+C00382,Anthony Rodriguez,Female,63,56-65,Los Angeles,CA,West,2022-12-15,169,10,3680.49,368.05,2022-05-29,2025-01-11,Cool (91-180),3,Loyal Frequent
+C00383,Jennifer Thomas,Male,67,65+,Chicago,IL,Central,2021-05-08,150,3,290.71,96.9,2022-12-10,2025-01-30,Cool (91-180),1,Potential / Occasional
+C00384,Mary White,Female,26,26-35,Houston,TX,South,2024-02-13,66,14,6542.76,467.34,2022-03-04,2025-04-24,Warm (31-90),0,High-Value Champions
+C00385,Paul Johnson,Female,42,36-45,Phoenix,AZ,West,2022-07-06,136,2,183.4,91.7,2023-08-13,2025-02-13,Cool (91-180),1,Potential / Occasional
+C00386,Daniel Davis,Female,46,46-55,Philadelphia,PA,East,2022-05-09,141,2,424.01,212.0,2024-12-27,2025-02-08,Cool (91-180),1,Potential / Occasional
+C00387,Robert Harris,Female,54,46-55,San Antonio,TX,South,2024-02-07,63,17,11735.36,690.32,2022-01-14,2025-04-27,Warm (31-90),0,High-Value Champions
+C00388,John Harris,Female,38,36-45,San Diego,CA,West,2021-03-16,289,4,481.38,120.34,2022-09-02,2024-09-13,At Risk (180+),1,Potential / Occasional
+C00389,Mary Davis,Female,55,46-55,Dallas,TX,South,2021-02-11,353,5,1203.34,240.67,2022-01-08,2024-07-11,At Risk (180+),1,Potential / Occasional
+C00390,Richard Clark,Female,42,36-45,San Jose,CA,West,2021-02-03,248,6,2033.01,338.84,2022-07-02,2024-10-24,At Risk (180+),3,Loyal Frequent
+C00391,Mary Martin,Female,40,36-45,Austin,TX,South,2023-09-25,27,14,9119.5,651.39,2022-01-14,2025-06-02,Active (0-30),0,High-Value Champions
+C00392,Elizabeth Davis,Male,74,65+,Jacksonville,FL,South,2021-12-08,822,2,141.58,70.79,2022-03-19,2023-03-30,At Risk (180+),2,Low-Value / At-Risk
+C00393,William Thomas,Female,51,46-55,Fort Worth,TX,South,2022-10-08,58,3,559.21,186.4,2022-12-29,2025-05-02,Warm (31-90),1,Potential / Occasional
+C00394,Linda Jackson,Female,70,65+,Columbus,OH,Central,2021-09-25,554,1,39.4,39.4,2023-12-23,2023-12-23,At Risk (180+),2,Low-Value / At-Risk
+C00395,Susan Anderson,Female,34,26-35,Charlotte,NC,South,2022-03-31,290,6,1430.8,238.47,2022-02-10,2024-09-12,At Risk (180+),3,Loyal Frequent
+C00396,Thomas Harris,Male,63,56-65,Seattle,WA,West,2023-07-11,390,3,338.08,112.69,2023-12-29,2024-06-04,At Risk (180+),1,Potential / Occasional
+C00397,Lisa Garcia,Male,60,56-65,Denver,CO,West,2021-05-10,158,5,1119.41,223.88,2022-03-20,2025-01-22,Cool (91-180),1,Potential / Occasional
+C00398,Joshua Martin,Male,68,65+,Boston,MA,East,2023-03-30,20,3,222.89,74.3,2022-02-05,2025-06-09,Active (0-30),1,Potential / Occasional
+C00399,Linda Harris,Male,28,26-35,Nashville,TN,South,2023-03-05,13,9,3647.25,405.25,2023-03-29,2025-06-16,Active (0-30),3,Loyal Frequent
+C00400,David Martinez,Male,66,65+,Detroit,MI,Central,2021-01-11,144,7,2309.39,329.91,2022-01-02,2025-02-05,Cool (91-180),3,Loyal Frequent
+C00401,Michael Jackson,Male,52,46-55,New York,NY,East,2021-07-06,50,8,3074.03,384.25,2022-05-28,2025-05-10,Warm (31-90),3,Loyal Frequent
+C00402,Mary Robinson,Male,41,36-45,Los Angeles,CA,West,2021-04-08,774,2,249.25,124.62,2023-04-20,2023-05-17,At Risk (180+),2,Low-Value / At-Risk
+C00403,Karen Jackson,Male,73,65+,Chicago,IL,Central,2023-01-28,581,2,291.96,145.98,2022-08-05,2023-11-26,At Risk (180+),2,Low-Value / At-Risk
+C00404,Matthew Gonzalez,Male,52,46-55,Houston,TX,South,2023-01-21,606,2,549.6,274.8,2023-10-08,2023-11-01,At Risk (180+),2,Low-Value / At-Risk
+C00405,Richard Williams,Female,60,56-65,Phoenix,AZ,West,2023-08-16,442,5,1452.6,290.52,2022-01-28,2024-04-13,At Risk (180+),1,Potential / Occasional
+C00406,Donna Thompson,Female,19,18-25,Philadelphia,PA,East,2022-04-27,229,9,3464.02,384.89,2022-01-09,2024-11-12,At Risk (180+),3,Loyal Frequent
+C00407,Jessica Brown,Male,34,26-35,San Antonio,TX,South,2021-03-14,962,1,148.79,148.79,2022-11-10,2022-11-10,At Risk (180+),2,Low-Value / At-Risk
+C00408,Karen Ramirez,Female,59,56-65,San Diego,CA,West,2021-03-02,88,1,187.06,187.06,2025-04-02,2025-04-02,Warm (31-90),1,Potential / Occasional
+C00409,Joshua Sanchez,Male,20,18-25,Dallas,TX,South,2021-01-25,150,8,4750.99,593.87,2023-03-17,2025-01-30,Cool (91-180),3,Loyal Frequent
+C00410,Linda Sanchez,Female,47,46-55,San Jose,CA,West,2021-04-18,137,3,297.65,99.22,2022-04-09,2025-02-12,Cool (91-180),1,Potential / Occasional
+C00411,Andrew Sanchez,Female,36,36-45,Austin,TX,South,2021-04-12,396,2,183.27,91.64,2023-01-03,2024-05-29,At Risk (180+),1,Potential / Occasional
+C00412,John Lopez,Female,66,65+,Jacksonville,FL,South,2023-12-04,1271,1,63.84,63.84,2022-01-05,2022-01-05,At Risk (180+),2,Low-Value / At-Risk
+C00413,Paul Wilson,Female,74,65+,Fort Worth,TX,South,2023-08-15,264,2,343.92,171.96,2024-03-02,2024-10-08,At Risk (180+),1,Potential / Occasional
+C00414,Lisa Williams,Female,41,36-45,Columbus,OH,Central,2021-01-12,98,7,1763.11,251.87,2023-07-04,2025-03-23,Cool (91-180),3,Loyal Frequent
+C00415,Steven Lee,Female,38,36-45,Charlotte,NC,South,2021-12-05,214,1,138.62,138.62,2024-11-27,2024-11-27,At Risk (180+),1,Potential / Occasional
+C00416,Nancy Smith,Female,71,65+,Seattle,WA,West,2024-01-10,759,1,138.44,138.44,2023-06-01,2023-06-01,At Risk (180+),2,Low-Value / At-Risk
+C00417,Anthony Clark,Female,42,36-45,Denver,CO,West,2023-09-03,99,6,1507.48,251.25,2022-03-28,2025-03-22,Cool (91-180),3,Loyal Frequent
+C00418,Ashley Brown,Female,32,26-35,Boston,MA,East,2022-04-11,282,3,228.57,76.19,2022-05-22,2024-09-20,At Risk (180+),1,Potential / Occasional
+C00419,Margaret Lopez,Female,64,56-65,Nashville,TN,South,2022-05-04,141,7,2073.88,296.27,2022-03-10,2025-02-08,Cool (91-180),3,Loyal Frequent
+C00420,Sandra Thompson,Female,34,26-35,Detroit,MI,Central,2023-02-17,1225,1,14.35,14.35,2022-02-20,2022-02-20,At Risk (180+),2,Low-Value / At-Risk
+C00421,Elizabeth Wilson,Male,24,18-25,New York,NY,East,2023-09-08,429,2,148.82,74.41,2022-10-06,2024-04-26,At Risk (180+),1,Potential / Occasional
+C00422,Barbara White,Female,26,26-35,Los Angeles,CA,West,2021-12-01,27,7,1353.96,193.42,2022-06-26,2025-06-02,Active (0-30),3,Loyal Frequent
+C00423,Kimberly Lee,Female,67,65+,Chicago,IL,Central,2023-06-02,263,2,232.34,116.17,2024-07-02,2024-10-09,At Risk (180+),1,Potential / Occasional
+C00424,Sarah Martin,Female,35,26-35,Houston,TX,South,2023-04-07,107,3,427.62,142.54,2023-02-25,2025-03-14,Cool (91-180),1,Potential / Occasional
+C00425,Paul Harris,Male,52,46-55,Phoenix,AZ,West,2023-09-17,33,4,1180.72,295.18,2024-03-12,2025-05-27,Warm (31-90),1,Potential / Occasional
+C00426,Donald Anderson,Female,56,56-65,Philadelphia,PA,East,2022-02-06,104,1,47.78,47.78,2025-03-17,2025-03-17,Cool (91-180),1,Potential / Occasional
+C00427,Margaret Clark,Male,61,56-65,San Antonio,TX,South,2024-03-28,51,14,9437.91,674.14,2022-02-12,2025-05-09,Warm (31-90),0,High-Value Champions
+C00428,Donna Rodriguez,Female,20,18-25,San Diego,CA,West,2021-07-07,44,6,1136.6,189.43,2022-04-02,2025-05-16,Warm (31-90),3,Loyal Frequent
+C00429,Christopher Ramirez,Female,43,36-45,Dallas,TX,South,2023-03-16,554,2,298.6,149.3,2022-04-11,2023-12-23,At Risk (180+),2,Low-Value / At-Risk
+C00430,Jessica Clark,Male,56,56-65,San Jose,CA,West,2021-07-02,3,6,1447.68,241.28,2022-05-24,2025-06-26,Active (0-30),3,Loyal Frequent
+C00431,Jennifer Rodriguez,Female,39,36-45,Austin,TX,South,2022-05-12,456,1,129.24,129.24,2024-03-30,2024-03-30,At Risk (180+),1,Potential / Occasional
+C00432,Mark Davis,Female,50,46-55,Jacksonville,FL,South,2023-07-10,270,1,115.93,115.93,2024-10-02,2024-10-02,At Risk (180+),1,Potential / Occasional
+C00433,Sandra Jackson,Male,61,56-65,Fort Worth,TX,South,2021-01-16,50,10,5459.63,545.96,2022-07-18,2025-05-10,Warm (31-90),0,High-Value Champions
+C00434,Michelle Perez,Male,52,46-55,Columbus,OH,Central,2023-06-13,35,2,282.35,141.17,2024-11-06,2025-05-25,Warm (31-90),1,Potential / Occasional
+C00435,Matthew Hernandez,Female,72,65+,Charlotte,NC,South,2024-04-08,178,12,5141.32,428.44,2022-03-23,2025-01-02,Cool (91-180),0,High-Value Champions
+C00436,Mary Thomas,Male,49,46-55,Seattle,WA,West,2024-03-10,294,4,696.95,174.24,2022-12-25,2024-09-08,At Risk (180+),1,Potential / Occasional
+C00437,Christopher Garcia,Male,46,46-55,Denver,CO,West,2023-11-29,171,2,123.02,61.51,2022-08-01,2025-01-09,Cool (91-180),1,Potential / Occasional
+C00438,Ashley Miller,Male,70,65+,Boston,MA,East,2023-08-16,477,3,388.08,129.36,2022-05-23,2024-03-09,At Risk (180+),1,Potential / Occasional
+C00439,Daniel Sanchez,Female,73,65+,Nashville,TN,South,2023-01-18,179,4,677.47,169.37,2022-02-15,2025-01-01,Cool (91-180),1,Potential / Occasional
+C00440,Thomas Hernandez,Female,42,36-45,Detroit,MI,Central,2022-01-12,9,7,2096.6,299.51,2022-11-04,2025-06-20,Active (0-30),3,Loyal Frequent
+C00441,Sarah Lewis,Female,47,46-55,New York,NY,East,2021-12-06,668,1,97.58,97.58,2023-08-31,2023-08-31,At Risk (180+),2,Low-Value / At-Risk
+C00442,Joshua Thompson,Male,73,65+,Los Angeles,CA,West,2021-01-03,969,2,327.68,163.84,2022-07-11,2022-11-03,At Risk (180+),2,Low-Value / At-Risk
+C00443,Sarah Moore,Female,54,46-55,Chicago,IL,Central,2021-11-20,98,3,186.96,62.32,2023-02-03,2025-03-23,Cool (91-180),1,Potential / Occasional
+C00444,James Taylor,Male,63,56-65,Houston,TX,South,2022-03-08,11,4,1248.5,312.12,2023-03-12,2025-06-18,Active (0-30),1,Potential / Occasional
+C00445,Richard Williams,Male,74,65+,Phoenix,AZ,West,2022-08-08,63,2,95.0,47.5,2023-12-05,2025-04-27,Warm (31-90),1,Potential / Occasional
+C00446,Jessica White,Male,54,46-55,Philadelphia,PA,East,2023-08-22,412,1,195.6,195.6,2024-05-13,2024-05-13,At Risk (180+),1,Potential / Occasional
+C00447,Anthony Thomas,Male,23,18-25,San Antonio,TX,South,2021-03-02,602,1,60.17,60.17,2023-11-05,2023-11-05,At Risk (180+),2,Low-Value / At-Risk
+C00448,Emily Harris,Female,63,56-65,San Diego,CA,West,2023-03-18,44,3,726.92,242.31,2023-03-05,2025-05-16,Warm (31-90),1,Potential / Occasional
+C00449,Jessica Thompson,Female,51,46-55,Dallas,TX,South,2021-01-11,104,7,2672.63,381.8,2022-03-07,2025-03-17,Cool (91-180),3,Loyal Frequent
+C00450,Donald Lee,Female,21,18-25,San Jose,CA,West,2024-03-22,764,2,293.98,146.99,2022-03-20,2023-05-27,At Risk (180+),2,Low-Value / At-Risk
+C00451,Ashley Anderson,Female,63,56-65,Austin,TX,South,2023-06-04,421,2,137.44,68.72,2022-09-17,2024-05-04,At Risk (180+),1,Potential / Occasional
+C00452,Mary Williams,Male,43,36-45,Jacksonville,FL,South,2024-02-05,137,4,1206.45,301.61,2023-03-15,2025-02-12,Cool (91-180),1,Potential / Occasional
+C00453,Charles Davis,Male,20,18-25,Fort Worth,TX,South,2023-07-26,146,2,359.12,179.56,2022-11-29,2025-02-03,Cool (91-180),1,Potential / Occasional
+C00454,Betty Thompson,Female,66,65+,Columbus,OH,Central,2021-02-23,254,16,8013.42,500.84,2022-02-24,2024-10-18,At Risk (180+),0,High-Value Champions
+C00455,Jessica Martinez,Female,66,65+,Charlotte,NC,South,2024-01-28,157,2,394.92,197.46,2024-12-28,2025-01-23,Cool (91-180),1,Potential / Occasional
+C00456,Donna Lopez,Female,34,26-35,Seattle,WA,West,2022-02-23,269,4,767.0,191.75,2022-07-30,2024-10-03,At Risk (180+),1,Potential / Occasional
+C00457,Donald Moore,Female,52,46-55,Denver,CO,West,2021-08-04,165,2,315.49,157.74,2023-09-11,2025-01-15,Cool (91-180),1,Potential / Occasional
+C00458,Kimberly Lopez,Male,64,56-65,Boston,MA,East,2023-02-20,139,5,1078.92,215.78,2022-05-31,2025-02-10,Cool (91-180),1,Potential / Occasional
+C00459,Margaret White,Female,31,26-35,Nashville,TN,South,2024-01-18,42,11,4215.21,383.2,2022-04-15,2025-05-18,Warm (31-90),3,Loyal Frequent
+C00460,Emily Hernandez,Male,45,36-45,Detroit,MI,Central,2023-08-10,778,1,20.16,20.16,2023-05-13,2023-05-13,At Risk (180+),2,Low-Value / At-Risk
+C00461,Daniel Thompson,Female,59,56-65,New York,NY,East,2023-07-10,289,4,904.13,226.03,2022-03-24,2024-09-13,At Risk (180+),1,Potential / Occasional
+C00462,Sandra Rodriguez,Male,42,36-45,Los Angeles,CA,West,2022-06-05,110,7,2132.78,304.68,2022-01-08,2025-03-11,Cool (91-180),3,Loyal Frequent
+C00463,Karen Rodriguez,Male,32,26-35,Chicago,IL,Central,2023-08-13,385,2,144.3,72.15,2023-01-22,2024-06-09,At Risk (180+),1,Potential / Occasional
+C00464,Joseph Brown,Male,22,18-25,Houston,TX,South,2021-02-07,284,3,465.0,155.0,2022-10-27,2024-09-18,At Risk (180+),1,Potential / Occasional
+C00465,Richard Hernandez,Female,23,18-25,Phoenix,AZ,West,2024-04-14,578,3,320.52,106.84,2023-01-17,2023-11-29,At Risk (180+),2,Low-Value / At-Risk
+C00466,Linda White,Male,30,26-35,Philadelphia,PA,East,2021-02-06,1270,1,55.14,55.14,2022-01-06,2022-01-06,At Risk (180+),2,Low-Value / At-Risk
+C00467,Paul Harris,Male,34,26-35,San Antonio,TX,South,2023-03-07,1186,1,157.06,157.06,2022-03-31,2022-03-31,At Risk (180+),2,Low-Value / At-Risk
+C00468,Barbara Miller,Female,49,46-55,San Diego,CA,West,2024-02-12,80,7,1226.82,175.26,2022-05-29,2025-04-10,Warm (31-90),3,Loyal Frequent
+C00469,Susan White,Female,20,18-25,Dallas,TX,South,2021-11-14,1108,1,103.5,103.5,2022-06-17,2022-06-17,At Risk (180+),2,Low-Value / At-Risk
+C00470,Donald Rodriguez,Female,44,36-45,San Jose,CA,West,2023-11-30,201,3,319.14,106.38,2022-09-01,2024-12-10,At Risk (180+),1,Potential / Occasional
+C00471,Donna Harris,Female,57,56-65,Austin,TX,South,2021-08-04,307,2,292.44,146.22,2024-06-11,2024-08-26,At Risk (180+),1,Potential / Occasional
+C00472,Kimberly Martin,Female,65,56-65,Jacksonville,FL,South,2021-04-02,244,8,3075.58,384.45,2022-01-31,2024-10-28,At Risk (180+),3,Loyal Frequent
+C00473,Charles Brown,Female,42,36-45,Fort Worth,TX,South,2023-02-20,52,8,4249.5,531.19,2022-04-23,2025-05-08,Warm (31-90),3,Loyal Frequent
+C00474,Richard Martinez,Male,44,36-45,Columbus,OH,Central,2024-04-08,289,5,2016.81,403.36,2022-05-13,2024-09-13,At Risk (180+),3,Loyal Frequent
+C00475,Joseph Lopez,Male,22,18-25,Charlotte,NC,South,2022-02-26,216,4,1566.14,391.54,2022-02-08,2024-11-25,At Risk (180+),1,Potential / Occasional
+C00476,Barbara Martinez,Female,68,65+,Seattle,WA,West,2022-07-11,511,6,1819.97,303.33,2022-02-19,2024-02-04,At Risk (180+),3,Loyal Frequent
+C00477,James Thompson,Female,27,26-35,Denver,CO,West,2023-11-21,115,2,72.39,36.2,2023-07-19,2025-03-06,Cool (91-180),1,Potential / Occasional
+C00478,Paul Jones,Male,47,46-55,Boston,MA,East,2022-11-03,120,1,49.0,49.0,2025-03-01,2025-03-01,Cool (91-180),1,Potential / Occasional
+C00479,Sarah Johnson,Female,31,26-35,Nashville,TN,South,2021-03-23,9,4,693.04,173.26,2022-12-27,2025-06-20,Active (0-30),1,Potential / Occasional
+C00480,Patricia Moore,Female,56,56-65,Detroit,MI,Central,2022-08-12,317,1,47.16,47.16,2024-08-16,2024-08-16,At Risk (180+),1,Potential / Occasional
+C00481,Charles Thompson,Male,58,56-65,New York,NY,East,2023-12-06,218,2,261.61,130.8,2022-08-30,2024-11-23,At Risk (180+),1,Potential / Occasional
+C00482,William Lee,Male,51,46-55,Los Angeles,CA,West,2021-01-17,57,6,1774.01,295.67,2022-04-22,2025-05-03,Warm (31-90),3,Loyal Frequent
+C00483,Ashley Brown,Male,62,56-65,Chicago,IL,Central,2022-12-01,135,6,1876.48,312.75,2022-08-22,2025-02-14,Cool (91-180),3,Loyal Frequent
+C00484,James Jackson,Male,36,36-45,Houston,TX,South,2022-11-06,978,1,60.59,60.59,2022-10-25,2022-10-25,At Risk (180+),2,Low-Value / At-Risk
+C00485,Charles Thomas,Male,58,56-65,Phoenix,AZ,West,2022-02-18,496,7,1940.98,277.28,2022-04-05,2024-02-19,At Risk (180+),3,Loyal Frequent
+C00486,Donald Anderson,Male,32,26-35,Philadelphia,PA,East,2023-09-21,109,4,1028.35,257.09,2022-11-25,2025-03-12,Cool (91-180),1,Potential / Occasional
+C00487,Nancy Garcia,Male,21,18-25,San Antonio,TX,South,2021-02-06,875,3,223.83,74.61,2022-03-26,2023-02-05,At Risk (180+),2,Low-Value / At-Risk
+C00488,Patricia Rodriguez,Female,67,65+,San Diego,CA,West,2023-07-05,1014,1,291.52,291.52,2022-09-19,2022-09-19,At Risk (180+),2,Low-Value / At-Risk
+C00489,Donald Brown,Male,29,26-35,Dallas,TX,South,2023-01-01,1,2,41.65,20.82,2023-12-28,2025-06-28,Active (0-30),1,Potential / Occasional
+C00490,Robert Gonzalez,Female,71,65+,San Jose,CA,West,2023-07-07,6,4,1498.31,374.58,2022-02-06,2025-06-23,Active (0-30),1,Potential / Occasional
+C00491,Ashley Williams,Male,73,65+,Austin,TX,South,2022-12-06,165,2,123.11,61.56,2025-01-07,2025-01-15,Cool (91-180),1,Potential / Occasional
+C00492,Andrew Lee,Female,64,56-65,Jacksonville,FL,South,2021-07-29,366,1,51.15,51.15,2024-06-28,2024-06-28,At Risk (180+),1,Potential / Occasional
+C00493,Patricia Jones,Male,52,46-55,Fort Worth,TX,South,2021-10-12,32,7,2340.87,334.41,2022-03-18,2025-05-28,Warm (31-90),3,Loyal Frequent
+C00494,Elizabeth Sanchez,Female,24,18-25,Columbus,OH,Central,2023-08-06,120,2,212.35,106.18,2022-08-08,2025-03-01,Cool (91-180),1,Potential / Occasional
+C00495,Andrew Martinez,Male,23,18-25,Charlotte,NC,South,2021-01-29,79,3,401.86,133.95,2022-05-31,2025-04-11,Warm (31-90),1,Potential / Occasional
+C00496,Jennifer Davis,Female,68,65+,Seattle,WA,West,2023-05-29,265,6,1776.16,296.03,2022-06-10,2024-10-07,At Risk (180+),3,Loyal Frequent
+C00497,Linda Moore,Female,43,36-45,Denver,CO,West,2022-04-04,218,12,6698.9,558.24,2022-02-06,2024-11-23,At Risk (180+),0,High-Value Champions
+C00498,Anthony Martin,Female,34,26-35,Boston,MA,East,2023-01-08,205,4,1312.15,328.04,2022-08-09,2024-12-06,At Risk (180+),1,Potential / Occasional
+C00499,Joshua Sanchez,Male,56,56-65,Nashville,TN,South,2024-01-28,10,6,1642.66,273.78,2022-02-21,2025-06-19,Active (0-30),3,Loyal Frequent
+C00500,Michelle Davis,Female,28,26-35,Detroit,MI,Central,2023-06-06,572,4,1378.41,344.6,2022-01-30,2023-12-05,At Risk (180+),2,Low-Value / At-Risk
+C00501,Kimberly Gonzalez,Female,64,56-65,New York,NY,East,2023-06-03,9,2,253.37,126.68,2022-10-10,2025-06-20,Active (0-30),1,Potential / Occasional
+C00502,Mark Robinson,Male,28,26-35,Los Angeles,CA,West,2023-09-01,35,7,1875.59,267.94,2022-04-28,2025-05-25,Warm (31-90),3,Loyal Frequent
+C00503,Mark Martinez,Female,73,65+,Chicago,IL,Central,2023-04-29,4,4,1151.08,287.77,2022-07-10,2025-06-25,Active (0-30),1,Potential / Occasional
+C00504,Donna Wilson,Female,33,26-35,Houston,TX,South,2023-09-16,405,2,125.3,62.65,2022-11-26,2024-05-20,At Risk (180+),1,Potential / Occasional
+C00505,Karen Jackson,Female,23,18-25,Phoenix,AZ,West,2023-05-19,448,3,414.08,138.03,2023-08-16,2024-04-07,At Risk (180+),1,Potential / Occasional
+C00506,Michelle Johnson,Female,32,26-35,Philadelphia,PA,East,2022-07-24,227,11,4582.46,416.59,2023-01-15,2024-11-14,At Risk (180+),3,Loyal Frequent
+C00507,Michelle White,Male,66,65+,San Antonio,TX,South,2024-03-31,414,4,1811.46,452.86,2022-04-23,2024-05-11,At Risk (180+),1,Potential / Occasional
+C00508,Michael Harris,Female,35,26-35,San Diego,CA,West,2023-03-04,155,1,158.59,158.59,2025-01-25,2025-01-25,Cool (91-180),1,Potential / Occasional
+C00509,Susan Lee,Male,25,18-25,Dallas,TX,South,2022-05-07,63,2,242.06,121.03,2025-04-19,2025-04-27,Warm (31-90),1,Potential / Occasional
+C00510,Susan Rodriguez,Male,34,26-35,San Jose,CA,West,2023-12-20,801,2,233.45,116.72,2022-06-30,2023-04-20,At Risk (180+),2,Low-Value / At-Risk
+C00511,Jennifer Garcia,Female,63,56-65,Austin,TX,South,2022-06-04,510,2,219.44,109.72,2022-09-17,2024-02-05,At Risk (180+),2,Low-Value / At-Risk
+C00512,Jessica Garcia,Female,61,56-65,Jacksonville,FL,South,2021-07-18,342,5,1367.28,273.46,2023-02-20,2024-07-22,At Risk (180+),1,Potential / Occasional
+C00513,Emily Williams,Female,20,18-25,Fort Worth,TX,South,2022-11-24,186,3,353.8,117.93,2022-12-29,2024-12-25,At Risk (180+),1,Potential / Occasional
+C00514,David Smith,Female,42,36-45,Columbus,OH,Central,2023-07-05,97,3,280.92,93.64,2024-04-27,2025-03-24,Cool (91-180),1,Potential / Occasional
+C00515,Anthony Anderson,Male,34,26-35,Charlotte,NC,South,2023-01-04,76,3,179.28,59.76,2022-11-14,2025-04-14,Warm (31-90),1,Potential / Occasional
+C00516,Joshua Thomas,Male,74,65+,Seattle,WA,West,2022-06-05,76,2,310.23,155.12,2023-10-19,2025-04-14,Warm (31-90),1,Potential / Occasional
+C00517,Charles Johnson,Male,71,65+,Denver,CO,West,2023-08-14,57,8,3706.78,463.35,2022-04-10,2025-05-03,Warm (31-90),3,Loyal Frequent
+C00518,Joseph Martinez,Male,41,36-45,Boston,MA,East,2022-05-16,100,18,9572.69,531.82,2022-04-22,2025-03-21,Cool (91-180),0,High-Value Champions
+C00519,Charles Thompson,Male,30,26-35,Nashville,TN,South,2022-08-07,146,1,56.79,56.79,2025-02-03,2025-02-03,Cool (91-180),1,Potential / Occasional
+C00520,Sandra Williams,Male,35,26-35,Detroit,MI,Central,2022-12-22,64,7,2451.27,350.18,2023-06-20,2025-04-26,Warm (31-90),3,Loyal Frequent
+C00521,Joseph Robinson,Male,48,46-55,New York,NY,East,2021-12-04,227,2,251.35,125.68,2024-03-12,2024-11-14,At Risk (180+),1,Potential / Occasional
+C00522,Thomas Sanchez,Male,62,56-65,Los Angeles,CA,West,2021-06-15,260,4,1021.43,255.36,2022-03-31,2024-10-12,At Risk (180+),1,Potential / Occasional
+C00523,Donna Perez,Female,55,46-55,Chicago,IL,Central,2022-12-30,294,1,132.48,132.48,2024-09-08,2024-09-08,At Risk (180+),1,Potential / Occasional
+C00524,Richard Wilson,Female,41,36-45,Houston,TX,South,2023-02-18,144,8,2465.72,308.21,2023-03-03,2025-02-05,Cool (91-180),3,Loyal Frequent
+C00525,Linda Moore,Male,63,56-65,Phoenix,AZ,West,2022-02-05,168,4,757.57,189.39,2022-03-13,2025-01-12,Cool (91-180),1,Potential / Occasional
+C00526,Joseph Lee,Female,45,36-45,Philadelphia,PA,East,2022-08-15,12,5,1480.9,296.18,2024-05-01,2025-06-17,Active (0-30),3,Loyal Frequent
+C00527,Elizabeth Robinson,Female,49,46-55,San Antonio,TX,South,2022-11-04,8,2,212.6,106.3,2025-05-03,2025-06-21,Active (0-30),1,Potential / Occasional
+C00528,Sarah Clark,Male,19,18-25,San Diego,CA,West,2021-08-30,45,1,38.6,38.6,2025-05-15,2025-05-15,Warm (31-90),1,Potential / Occasional
+C00529,Elizabeth Williams,Male,30,26-35,Dallas,TX,South,2021-08-13,145,2,461.58,230.79,2023-07-06,2025-02-04,Cool (91-180),1,Potential / Occasional
+C00530,Patricia Garcia,Male,39,36-45,San Jose,CA,West,2022-08-12,186,4,1582.96,395.74,2023-09-18,2024-12-25,At Risk (180+),1,Potential / Occasional
+C00531,Karen Martin,Male,56,56-65,Austin,TX,South,2024-02-01,225,3,488.8,162.93,2022-02-08,2024-11-16,At Risk (180+),1,Potential / Occasional
+C00532,Andrew Robinson,Female,67,65+,Jacksonville,FL,South,2021-03-31,334,2,138.06,69.03,2022-09-06,2024-07-30,At Risk (180+),1,Potential / Occasional
+C00533,Charles Anderson,Male,72,65+,Fort Worth,TX,South,2021-05-23,280,7,1845.63,263.66,2022-02-20,2024-09-22,At Risk (180+),3,Loyal Frequent
+C00534,Linda Anderson,Male,28,26-35,Columbus,OH,Central,2022-03-04,133,4,656.57,164.14,2022-04-02,2025-02-16,Cool (91-180),1,Potential / Occasional
+C00535,Karen Thompson,Female,23,18-25,Charlotte,NC,South,2021-11-13,711,2,246.1,123.05,2022-08-22,2023-07-19,At Risk (180+),2,Low-Value / At-Risk
+C00536,Betty Rodriguez,Female,56,56-65,Seattle,WA,West,2021-01-09,832,5,1125.24,225.05,2022-07-16,2023-03-20,At Risk (180+),2,Low-Value / At-Risk
+C00537,Steven Moore,Female,67,65+,Denver,CO,West,2021-08-11,463,2,296.6,148.3,2022-02-08,2024-03-23,At Risk (180+),1,Potential / Occasional
+C00538,Ashley Anderson,Female,67,65+,Boston,MA,East,2022-12-17,129,2,415.05,207.52,2022-07-09,2025-02-20,Cool (91-180),1,Potential / Occasional
+C00539,Jennifer Martin,Male,24,18-25,Nashville,TN,South,2024-01-13,185,12,4411.82,367.65,2022-02-25,2024-12-26,At Risk (180+),3,Loyal Frequent
+C00540,John Lewis,Female,21,18-25,Detroit,MI,Central,2022-04-04,34,7,2105.2,300.74,2022-01-29,2025-05-26,Warm (31-90),3,Loyal Frequent
+C00541,Margaret White,Male,20,18-25,New York,NY,East,2021-01-22,519,6,1498.55,249.76,2022-05-13,2024-01-27,At Risk (180+),3,Loyal Frequent
+C00542,Christopher Martin,Female,59,56-65,Los Angeles,CA,West,2024-02-25,68,17,7135.05,419.71,2022-08-20,2025-04-22,Warm (31-90),0,High-Value Champions
+C00543,Thomas Smith,Male,71,65+,Chicago,IL,Central,2021-01-14,288,5,1861.84,372.37,2022-03-12,2024-09-14,At Risk (180+),3,Loyal Frequent
+C00544,Jennifer Davis,Male,30,26-35,Houston,TX,South,2023-11-02,33,4,1150.73,287.68,2022-07-21,2025-05-27,Warm (31-90),1,Potential / Occasional
+C00545,Andrew Jackson,Male,63,56-65,Phoenix,AZ,West,2021-05-02,500,6,2233.79,372.3,2022-03-15,2024-02-15,At Risk (180+),3,Loyal Frequent
+C00546,Mary Harris,Male,72,65+,Philadelphia,PA,East,2022-11-16,114,10,4947.01,494.7,2022-01-24,2025-03-07,Cool (91-180),3,Loyal Frequent
+C00547,Sarah Jackson,Female,68,65+,San Antonio,TX,South,2021-11-05,659,1,124.38,124.38,2023-09-09,2023-09-09,At Risk (180+),2,Low-Value / At-Risk
+C00548,John Harris,Female,54,46-55,San Diego,CA,West,2023-07-03,62,16,6698.33,418.65,2022-02-03,2025-04-28,Warm (31-90),0,High-Value Champions
+C00549,Barbara Thomas,Female,20,18-25,Dallas,TX,South,2021-11-08,104,6,1824.51,304.08,2022-01-24,2025-03-17,Cool (91-180),3,Loyal Frequent
+C00550,Kimberly Lee,Male,52,46-55,San Jose,CA,West,2023-07-13,495,1,39.36,39.36,2024-02-20,2024-02-20,At Risk (180+),2,Low-Value / At-Risk
+C00551,Mark Robinson,Male,32,26-35,Austin,TX,South,2022-03-21,40,14,8291.39,592.24,2022-02-24,2025-05-20,Warm (31-90),0,High-Value Champions
+C00552,Sarah Garcia,Female,66,65+,Jacksonville,FL,South,2021-12-19,273,7,2446.56,349.51,2022-06-02,2024-09-29,At Risk (180+),3,Loyal Frequent
+C00553,Donna Wilson,Female,41,36-45,Fort Worth,TX,South,2023-05-12,40,10,4286.92,428.69,2022-03-26,2025-05-20,Warm (31-90),3,Loyal Frequent
+C00554,Ashley Williams,Female,45,36-45,Columbus,OH,Central,2022-02-08,97,14,7001.53,500.11,2022-01-26,2025-03-24,Cool (91-180),0,High-Value Champions
+C00555,Donald Lopez,Female,67,65+,Charlotte,NC,South,2022-06-16,249,3,520.97,173.66,2024-02-29,2024-10-23,At Risk (180+),1,Potential / Occasional
+C00556,Anthony Hernandez,Female,53,46-55,Seattle,WA,West,2023-08-05,340,2,94.4,47.2,2023-08-21,2024-07-24,At Risk (180+),1,Potential / Occasional
+C00557,Christopher Perez,Male,53,46-55,Denver,CO,West,2024-02-15,22,7,1812.65,258.95,2022-03-25,2025-06-07,Active (0-30),3,Loyal Frequent
+C00558,Michael Ramirez,Female,53,46-55,Boston,MA,East,2022-08-01,92,3,208.8,69.6,2023-08-31,2025-03-29,Cool (91-180),1,Potential / Occasional
+C00559,David Hernandez,Male,68,65+,Nashville,TN,South,2021-10-22,91,3,804.98,268.33,2023-01-06,2025-03-30,Cool (91-180),1,Potential / Occasional
+C00560,Anthony Thompson,Female,29,26-35,Detroit,MI,Central,2021-07-05,209,2,331.7,165.85,2024-01-06,2024-12-02,At Risk (180+),1,Potential / Occasional
+C00561,Ashley Martinez,Female,32,26-35,New York,NY,East,2022-06-14,221,2,254.4,127.2,2024-05-18,2024-11-20,At Risk (180+),1,Potential / Occasional
+C00562,Betty Clark,Female,53,46-55,Los Angeles,CA,West,2023-05-17,110,18,8662.19,481.23,2022-03-10,2025-03-11,Cool (91-180),0,High-Value Champions
+C00563,Emily Johnson,Female,59,56-65,Chicago,IL,Central,2023-01-22,312,4,826.84,206.71,2022-08-23,2024-08-21,At Risk (180+),1,Potential / Occasional
+C00564,Sandra Williams,Male,19,18-25,Houston,TX,South,2023-07-29,24,4,887.61,221.9,2022-06-14,2025-06-05,Active (0-30),1,Potential / Occasional
+C00565,Christopher Rodriguez,Male,55,46-55,Phoenix,AZ,West,2022-01-10,125,5,854.6,170.92,2023-02-09,2025-02-24,Cool (91-180),1,Potential / Occasional
+C00566,Christopher Brown,Male,71,65+,Philadelphia,PA,East,2023-10-02,681,2,385.35,192.68,2023-02-03,2023-08-18,At Risk (180+),2,Low-Value / At-Risk
+C00567,Betty Ramirez,Male,73,65+,San Antonio,TX,South,2022-01-16,203,1,51.29,51.29,2024-12-08,2024-12-08,At Risk (180+),1,Potential / Occasional
+C00568,Steven Clark,Male,19,18-25,San Diego,CA,West,2021-08-19,225,2,372.32,186.16,2024-08-30,2024-11-16,At Risk (180+),1,Potential / Occasional
+C00569,James Perez,Female,42,36-45,Dallas,TX,South,2023-04-18,135,4,1066.63,266.66,2022-01-29,2025-02-14,Cool (91-180),1,Potential / Occasional
+C00570,Paul Anderson,Male,54,46-55,San Jose,CA,West,2021-01-28,600,6,1569.07,261.51,2022-08-12,2023-11-07,At Risk (180+),2,Low-Value / At-Risk
+C00571,Anthony Johnson,Male,57,56-65,Austin,TX,South,2021-09-18,160,7,2063.54,294.79,2022-06-04,2025-01-20,Cool (91-180),3,Loyal Frequent
+C00572,Richard Taylor,Male,62,56-65,Jacksonville,FL,South,2022-04-05,132,4,1399.66,349.92,2022-01-31,2025-02-17,Cool (91-180),1,Potential / Occasional
+C00573,Lisa Martin,Male,28,26-35,Fort Worth,TX,South,2023-07-08,155,2,353.85,176.92,2022-07-31,2025-01-25,Cool (91-180),1,Potential / Occasional
+C00574,Ashley Lee,Male,31,26-35,Columbus,OH,Central,2023-10-31,125,3,429.66,143.22,2023-04-08,2025-02-24,Cool (91-180),1,Potential / Occasional
+C00575,Mark Harris,Female,27,26-35,Charlotte,NC,South,2022-08-15,965,2,294.47,147.23,2022-01-19,2022-11-07,At Risk (180+),2,Low-Value / At-Risk
+C00576,Patricia Miller,Female,18,18-25,Seattle,WA,West,2023-04-24,586,2,423.33,211.66,2023-01-29,2023-11-21,At Risk (180+),2,Low-Value / At-Risk
+C00577,Sarah Moore,Male,60,56-65,Denver,CO,West,2021-05-13,229,8,4731.21,591.4,2022-03-17,2024-11-12,At Risk (180+),3,Loyal Frequent
+C00578,William Robinson,Female,71,65+,Boston,MA,East,2023-08-30,133,6,1920.85,320.14,2022-02-20,2025-02-16,Cool (91-180),3,Loyal Frequent
+C00579,Charles Anderson,Female,64,56-65,Nashville,TN,South,2024-02-19,162,3,191.01,63.67,2022-04-12,2025-01-18,Cool (91-180),1,Potential / Occasional
+C00580,Ashley Brown,Female,73,65+,Detroit,MI,Central,2021-06-14,61,4,1109.86,277.46,2022-06-26,2025-04-29,Warm (31-90),1,Potential / Occasional
+C00581,Mary Lee,Female,23,18-25,New York,NY,East,2021-06-05,58,5,1578.71,315.74,2023-05-03,2025-05-02,Warm (31-90),3,Loyal Frequent
+C00582,Joshua Sanchez,Female,37,36-45,Los Angeles,CA,West,2022-09-12,238,1,22.59,22.59,2024-11-03,2024-11-03,At Risk (180+),1,Potential / Occasional
+C00583,Jessica Thompson,Male,54,46-55,Chicago,IL,Central,2021-11-30,522,4,1204.46,301.12,2023-03-22,2024-01-24,At Risk (180+),2,Low-Value / At-Risk
+C00584,David Martinez,Male,18,18-25,Houston,TX,South,2023-11-10,723,2,404.76,202.38,2022-06-30,2023-07-07,At Risk (180+),2,Low-Value / At-Risk
+C00585,Emily Smith,Male,54,46-55,Phoenix,AZ,West,2021-04-29,163,11,5590.48,508.23,2022-03-27,2025-01-17,Cool (91-180),0,High-Value Champions
+C00586,Emily Wilson,Male,66,65+,Philadelphia,PA,East,2023-12-19,618,3,350.04,116.68,2022-07-10,2023-10-20,At Risk (180+),2,Low-Value / At-Risk
+C00587,Jennifer Davis,Male,59,56-65,San Antonio,TX,South,2022-11-22,11,2,122.62,61.31,2022-01-28,2025-06-18,Active (0-30),1,Potential / Occasional
+C00588,Linda Anderson,Female,41,36-45,San Diego,CA,West,2021-10-03,1242,1,117.16,117.16,2022-02-03,2022-02-03,At Risk (180+),2,Low-Value / At-Risk
+C00589,Linda Lee,Female,67,65+,Dallas,TX,South,2021-05-06,203,11,4864.28,442.21,2022-05-11,2024-12-08,At Risk (180+),3,Loyal Frequent
+C00590,Elizabeth Thomas,Male,64,56-65,San Jose,CA,West,2023-11-29,51,2,90.25,45.12,2024-04-18,2025-05-09,Warm (31-90),1,Potential / Occasional
+C00591,Charles Taylor,Female,61,56-65,Austin,TX,South,2022-03-03,106,8,4141.2,517.65,2022-03-05,2025-03-15,Cool (91-180),3,Loyal Frequent
+C00592,Sarah Wilson,Male,62,56-65,Jacksonville,FL,South,2021-05-31,676,1,42.6,42.6,2023-08-23,2023-08-23,At Risk (180+),2,Low-Value / At-Risk
+C00593,Donald Thomas,Female,59,56-65,Fort Worth,TX,South,2021-11-04,140,3,344.57,114.86,2022-09-05,2025-02-09,Cool (91-180),1,Potential / Occasional
+C00594,Jessica Anderson,Female,67,65+,Columbus,OH,Central,2023-06-11,7,4,1535.68,383.92,2022-04-25,2025-06-22,Active (0-30),1,Potential / Occasional
+C00595,Emily Jones,Female,46,46-55,Charlotte,NC,South,2021-05-09,175,1,231.83,231.83,2025-01-05,2025-01-05,Cool (91-180),1,Potential / Occasional
+C00596,Matthew Miller,Female,64,56-65,Seattle,WA,West,2022-06-01,32,8,5700.91,712.61,2023-06-01,2025-05-28,Warm (31-90),3,Loyal Frequent
+C00597,Joshua Taylor,Female,60,56-65,Denver,CO,West,2021-11-07,371,6,1377.09,229.52,2022-05-18,2024-06-23,At Risk (180+),3,Loyal Frequent
+C00598,William Ramirez,Male,43,36-45,Boston,MA,East,2021-04-24,118,2,203.53,101.76,2024-10-29,2025-03-03,Cool (91-180),1,Potential / Occasional
+C00599,Robert Rodriguez,Female,29,26-35,Nashville,TN,South,2021-10-30,107,2,299.24,149.62,2023-04-02,2025-03-14,Cool (91-180),1,Potential / Occasional
+C00600,Anthony Hernandez,Female,63,56-65,Detroit,MI,Central,2023-09-14,235,6,1555.54,259.26,2022-11-03,2024-11-06,At Risk (180+),3,Loyal Frequent
+C00601,Steven Rodriguez,Female,48,46-55,New York,NY,East,2023-03-12,624,4,1743.32,435.83,2022-03-29,2023-10-14,At Risk (180+),2,Low-Value / At-Risk
+C00602,James Martinez,Female,58,56-65,Los Angeles,CA,West,2023-12-13,257,2,127.82,63.91,2024-06-19,2024-10-15,At Risk (180+),1,Potential / Occasional
+C00603,Karen Clark,Female,26,26-35,Chicago,IL,Central,2023-10-07,10,3,522.35,174.12,2022-07-25,2025-06-19,Active (0-30),1,Potential / Occasional
+C00604,Donna Jackson,Male,65,56-65,Houston,TX,South,2024-03-30,644,1,49.13,49.13,2023-09-24,2023-09-24,At Risk (180+),2,Low-Value / At-Risk
+C00605,Ashley Ramirez,Female,30,26-35,Phoenix,AZ,West,2023-02-20,99,1,63.6,63.6,2025-03-22,2025-03-22,Cool (91-180),1,Potential / Occasional
+C00606,Elizabeth Anderson,Female,21,18-25,Philadelphia,PA,East,2024-03-28,140,4,1548.22,387.06,2022-08-01,2025-02-09,Cool (91-180),1,Potential / Occasional
+C00607,Paul Thomas,Male,55,46-55,San Antonio,TX,South,2024-01-31,185,6,1405.58,234.26,2022-09-04,2024-12-26,At Risk (180+),3,Loyal Frequent
+C00608,Daniel Hernandez,Female,35,26-35,San Diego,CA,West,2021-01-19,415,2,273.28,136.64,2023-04-04,2024-05-10,At Risk (180+),1,Potential / Occasional
+C00609,Emily Harris,Female,36,36-45,Dallas,TX,South,2022-02-01,80,2,279.88,139.94,2022-12-20,2025-04-10,Warm (31-90),1,Potential / Occasional
+C00610,Paul Gonzalez,Female,38,36-45,San Jose,CA,West,2023-04-02,493,2,180.96,90.48,2022-03-07,2024-02-22,At Risk (180+),1,Potential / Occasional
+C00611,Sandra Robinson,Male,24,18-25,Austin,TX,South,2023-12-25,736,2,179.61,89.8,2022-04-06,2023-06-24,At Risk (180+),2,Low-Value / At-Risk
+C00612,Christopher Ramirez,Female,46,46-55,Jacksonville,FL,South,2021-05-23,54,5,592.63,118.53,2022-10-17,2025-05-06,Warm (31-90),1,Potential / Occasional
+C00613,Richard Thompson,Female,52,46-55,Fort Worth,TX,South,2021-11-01,513,1,157.66,157.66,2024-02-02,2024-02-02,At Risk (180+),2,Low-Value / At-Risk
+C00614,Jessica Jackson,Male,52,46-55,Columbus,OH,Central,2021-04-12,91,4,1441.21,360.3,2023-02-05,2025-03-30,Cool (91-180),1,Potential / Occasional
+C00615,Matthew Davis,Female,27,26-35,Charlotte,NC,South,2023-08-26,213,5,1672.75,334.55,2022-09-19,2024-11-28,At Risk (180+),3,Loyal Frequent
+C00616,Anthony Johnson,Male,20,18-25,Seattle,WA,West,2023-08-20,589,2,120.29,60.14,2022-05-03,2023-11-18,At Risk (180+),2,Low-Value / At-Risk
+C00617,Christopher White,Female,65,56-65,Denver,CO,West,2021-03-26,142,4,1745.49,436.37,2022-08-24,2025-02-07,Cool (91-180),1,Potential / Occasional
+C00618,Donald Thompson,Female,46,46-55,Boston,MA,East,2022-03-30,574,1,163.99,163.99,2023-12-03,2023-12-03,At Risk (180+),2,Low-Value / At-Risk
+C00619,Matthew Gonzalez,Male,22,18-25,Nashville,TN,South,2024-03-23,54,2,144.73,72.36,2022-05-23,2025-05-06,Warm (31-90),1,Potential / Occasional
+C00620,Elizabeth Thomas,Female,61,56-65,Detroit,MI,Central,2021-10-31,45,2,168.68,84.34,2022-01-28,2025-05-15,Warm (31-90),1,Potential / Occasional
+C00621,John Jones,Male,40,36-45,New York,NY,East,2023-02-22,521,4,637.21,159.3,2022-05-29,2024-01-25,At Risk (180+),2,Low-Value / At-Risk
+C00622,Steven Jackson,Female,60,56-65,Los Angeles,CA,West,2022-05-13,149,2,247.3,123.65,2022-06-23,2025-01-31,Cool (91-180),1,Potential / Occasional
+C00623,Nancy Ramirez,Female,60,56-65,Chicago,IL,Central,2023-10-02,14,6,1883.58,313.93,2022-03-04,2025-06-15,Active (0-30),3,Loyal Frequent
+C00624,Michael Ramirez,Female,70,65+,Houston,TX,South,2023-10-12,365,1,178.88,178.88,2024-06-29,2024-06-29,At Risk (180+),1,Potential / Occasional
+C00625,Mark Brown,Female,53,46-55,Phoenix,AZ,West,2024-02-22,35,4,1272.44,318.11,2022-02-05,2025-05-25,Warm (31-90),1,Potential / Occasional
+C00626,Kimberly Robinson,Male,21,18-25,Philadelphia,PA,East,2022-12-16,738,1,298.99,298.99,2023-06-22,2023-06-22,At Risk (180+),2,Low-Value / At-Risk
+C00627,Sandra Smith,Male,36,36-45,San Antonio,TX,South,2023-02-28,152,6,1309.94,218.32,2022-03-22,2025-01-28,Cool (91-180),3,Loyal Frequent
+C00628,Elizabeth Wilson,Male,69,65+,San Diego,CA,West,2023-08-22,96,16,7881.93,492.62,2022-03-23,2025-03-25,Cool (91-180),0,High-Value Champions
+C00629,Elizabeth Williams,Male,64,56-65,Dallas,TX,South,2022-05-09,415,7,1459.1,208.44,2022-01-21,2024-05-10,At Risk (180+),3,Loyal Frequent
+C00630,Donald Sanchez,Female,33,26-35,San Jose,CA,West,2024-03-25,629,1,109.88,109.88,2023-10-09,2023-10-09,At Risk (180+),2,Low-Value / At-Risk
+C00631,Thomas Hernandez,Female,35,26-35,Austin,TX,South,2021-04-16,56,8,4786.21,598.28,2022-01-19,2025-05-04,Warm (31-90),3,Loyal Frequent
+C00632,Michelle Thompson,Male,21,18-25,Jacksonville,FL,South,2021-01-02,76,1,69.32,69.32,2025-04-14,2025-04-14,Warm (31-90),1,Potential / Occasional
+C00633,Betty Lee,Male,28,26-35,Fort Worth,TX,South,2021-03-31,450,2,160.13,80.06,2022-11-01,2024-04-05,At Risk (180+),1,Potential / Occasional
+C00634,Jennifer Ramirez,Male,30,26-35,Columbus,OH,Central,2024-02-06,505,5,1614.8,322.96,2023-04-03,2024-02-10,At Risk (180+),1,Potential / Occasional
+C00635,Nancy Ramirez,Female,73,65+,Charlotte,NC,South,2021-06-08,369,7,2380.41,340.06,2022-03-29,2024-06-25,At Risk (180+),3,Loyal Frequent
+C00636,Paul Gonzalez,Male,53,46-55,Seattle,WA,West,2022-03-21,333,6,1754.51,292.42,2022-09-02,2024-07-31,At Risk (180+),3,Loyal Frequent
+C00637,Christopher Lee,Female,24,18-25,Denver,CO,West,2024-01-13,551,1,345.56,345.56,2023-12-26,2023-12-26,At Risk (180+),2,Low-Value / At-Risk
+C00638,Ashley Ramirez,Male,59,56-65,Boston,MA,East,2024-04-10,52,17,9545.42,561.5,2022-02-12,2025-05-08,Warm (31-90),0,High-Value Champions
+C00639,Paul Johnson,Female,72,65+,Nashville,TN,South,2022-07-13,293,3,628.67,209.56,2023-04-13,2024-09-09,At Risk (180+),1,Potential / Occasional
+C00640,Michelle Williams,Female,45,36-45,Detroit,MI,Central,2024-02-16,454,4,522.67,130.67,2023-02-16,2024-04-01,At Risk (180+),1,Potential / Occasional
+C00641,Jessica Lee,Male,27,26-35,New York,NY,East,2023-11-16,414,3,612.79,204.26,2022-10-11,2024-05-11,At Risk (180+),1,Potential / Occasional
+C00642,Charles Davis,Male,59,56-65,Los Angeles,CA,West,2023-09-11,461,2,210.02,105.01,2022-12-14,2024-03-25,At Risk (180+),1,Potential / Occasional
+C00643,Jennifer Wilson,Female,66,65+,Chicago,IL,Central,2022-08-07,325,2,137.25,68.62,2023-01-15,2024-08-08,At Risk (180+),1,Potential / Occasional
+C00644,Michael Harris,Male,21,18-25,Houston,TX,South,2024-03-23,501,4,717.51,179.38,2023-04-05,2024-02-14,At Risk (180+),1,Potential / Occasional
+C00645,Michael Anderson,Female,53,46-55,Phoenix,AZ,West,2021-02-19,652,2,212.67,106.34,2022-06-14,2023-09-16,At Risk (180+),2,Low-Value / At-Risk
+C00646,David Thompson,Female,42,36-45,Philadelphia,PA,East,2023-12-20,446,2,237.73,118.86,2023-05-22,2024-04-09,At Risk (180+),1,Potential / Occasional
+C00647,Karen Lewis,Female,27,26-35,San Antonio,TX,South,2021-05-26,31,4,1226.74,306.68,2022-07-24,2025-05-29,Warm (31-90),1,Potential / Occasional
+C00648,Mary Johnson,Male,22,18-25,San Diego,CA,West,2023-09-20,200,1,138.37,138.37,2024-12-11,2024-12-11,At Risk (180+),1,Potential / Occasional
+C00649,Christopher Sanchez,Male,61,56-65,Dallas,TX,South,2022-11-18,38,7,1646.19,235.17,2022-01-25,2025-05-22,Warm (31-90),3,Loyal Frequent
+C00650,Patricia Martinez,Male,34,26-35,San Jose,CA,West,2022-11-04,863,3,562.13,187.38,2022-03-06,2023-02-17,At Risk (180+),2,Low-Value / At-Risk
+C00651,Daniel Lopez,Male,32,26-35,Austin,TX,South,2022-10-24,648,1,23.76,23.76,2023-09-20,2023-09-20,At Risk (180+),2,Low-Value / At-Risk
+C00652,Margaret Jones,Female,49,46-55,Jacksonville,FL,South,2022-02-23,524,4,597.22,149.3,2022-10-20,2024-01-22,At Risk (180+),2,Low-Value / At-Risk
+C00653,Jessica Taylor,Male,30,26-35,Fort Worth,TX,South,2022-10-12,55,6,1118.45,186.41,2022-08-17,2025-05-05,Warm (31-90),3,Loyal Frequent
+C00654,Anthony Jackson,Male,42,36-45,Columbus,OH,Central,2022-05-24,457,1,21.7,21.7,2024-03-29,2024-03-29,At Risk (180+),1,Potential / Occasional
+C00655,Barbara Garcia,Male,24,18-25,Charlotte,NC,South,2023-02-09,543,2,203.2,101.6,2022-10-24,2024-01-03,At Risk (180+),2,Low-Value / At-Risk
+C00656,Barbara Williams,Female,66,65+,Seattle,WA,West,2022-09-29,161,7,2129.59,304.23,2022-02-02,2025-01-19,Cool (91-180),3,Loyal Frequent
+C00657,Michelle Ramirez,Female,63,56-65,Denver,CO,West,2022-04-04,291,7,2177.36,311.05,2022-01-10,2024-09-11,At Risk (180+),3,Loyal Frequent
+C00658,Matthew Martin,Female,56,56-65,Boston,MA,East,2024-01-31,141,6,1850.64,308.44,2022-03-18,2025-02-08,Cool (91-180),3,Loyal Frequent
+C00659,Jessica Thomas,Male,57,56-65,Nashville,TN,South,2022-09-13,91,7,1301.72,185.96,2022-01-29,2025-03-30,Cool (91-180),3,Loyal Frequent
+C00660,Donna Jones,Female,26,26-35,Detroit,MI,Central,2021-12-19,1150,2,215.84,107.92,2022-02-02,2022-05-06,At Risk (180+),2,Low-Value / At-Risk
+C00661,Joseph Anderson,Male,23,18-25,New York,NY,East,2022-10-10,340,3,537.52,179.17,2023-03-25,2024-07-24,At Risk (180+),1,Potential / Occasional
+C00662,Thomas Anderson,Female,30,26-35,Los Angeles,CA,West,2022-03-01,328,4,1107.73,276.93,2022-05-10,2024-08-05,At Risk (180+),1,Potential / Occasional
+C00663,Thomas Perez,Female,22,18-25,Chicago,IL,Central,2022-07-15,375,5,1018.01,203.6,2023-01-03,2024-06-19,At Risk (180+),1,Potential / Occasional
+C00664,James Lewis,Male,38,36-45,Houston,TX,South,2022-03-04,102,4,999.76,249.94,2022-01-28,2025-03-19,Cool (91-180),1,Potential / Occasional
+C00665,Sandra Lewis,Female,67,65+,Phoenix,AZ,West,2023-02-15,43,4,968.95,242.24,2022-10-05,2025-05-17,Warm (31-90),1,Potential / Occasional
+C00666,Charles Perez,Female,20,18-25,Philadelphia,PA,East,2021-03-08,48,14,6410.87,457.92,2022-07-30,2025-05-12,Warm (31-90),0,High-Value Champions
+C00667,Paul Garcia,Female,40,36-45,San Antonio,TX,South,2021-12-08,22,1,101.33,101.33,2025-06-07,2025-06-07,Active (0-30),1,Potential / Occasional
+C00668,Robert Anderson,Female,34,26-35,San Diego,CA,West,2024-04-10,245,1,250.5,250.5,2024-10-27,2024-10-27,At Risk (180+),1,Potential / Occasional
+C00669,Daniel Jackson,Male,69,65+,Dallas,TX,South,2021-12-20,465,3,443.03,147.68,2022-03-31,2024-03-21,At Risk (180+),1,Potential / Occasional
+C00670,Karen Lee,Female,53,46-55,San Jose,CA,West,2022-10-24,526,2,502.36,251.18,2022-05-20,2024-01-20,At Risk (180+),2,Low-Value / At-Risk
+C00671,Margaret Thompson,Male,48,46-55,Austin,TX,South,2022-03-29,112,2,284.34,142.17,2023-09-29,2025-03-09,Cool (91-180),1,Potential / Occasional
+C00672,Thomas Anderson,Male,59,56-65,Jacksonville,FL,South,2023-10-14,334,2,157.02,78.51,2024-05-24,2024-07-30,At Risk (180+),1,Potential / Occasional
+C00673,Karen Miller,Male,72,65+,Fort Worth,TX,South,2022-03-22,302,5,1029.41,205.88,2022-03-02,2024-08-31,At Risk (180+),1,Potential / Occasional
+C00674,Matthew Ramirez,Male,33,26-35,Columbus,OH,Central,2023-07-01,70,2,407.74,203.87,2024-07-20,2025-04-20,Warm (31-90),1,Potential / Occasional
+C00675,Donald Brown,Male,47,46-55,Charlotte,NC,South,2023-09-07,137,17,7175.89,422.11,2022-05-30,2025-02-12,Cool (91-180),0,High-Value Champions
+C00676,Jessica Gonzalez,Male,68,65+,Seattle,WA,West,2021-08-25,185,5,1529.45,305.89,2022-04-25,2024-12-26,At Risk (180+),3,Loyal Frequent
+C00677,Andrew Lopez,Male,37,36-45,Denver,CO,West,2024-02-02,13,16,9056.63,566.04,2022-04-26,2025-06-16,Active (0-30),0,High-Value Champions
+C00678,Andrew Martinez,Male,47,46-55,Boston,MA,East,2021-12-30,578,2,439.03,219.52,2022-04-17,2023-11-29,At Risk (180+),2,Low-Value / At-Risk
+C00679,Charles Smith,Male,39,36-45,Nashville,TN,South,2021-05-29,325,2,186.28,93.14,2024-07-04,2024-08-08,At Risk (180+),1,Potential / Occasional
+C00680,Betty Rodriguez,Female,49,46-55,Detroit,MI,Central,2023-09-05,331,7,1583.27,226.18,2022-04-19,2024-08-02,At Risk (180+),3,Loyal Frequent
+C00681,James Jackson,Female,29,26-35,New York,NY,East,2024-03-30,201,10,4060.08,406.01,2022-03-02,2024-12-10,At Risk (180+),3,Loyal Frequent
+C00682,Patricia Robinson,Male,53,46-55,Los Angeles,CA,West,2023-01-08,326,4,999.15,249.79,2022-12-25,2024-08-07,At Risk (180+),1,Potential / Occasional
+C00683,Joshua White,Male,62,56-65,Chicago,IL,Central,2022-04-26,360,2,176.82,88.41,2022-09-25,2024-07-04,At Risk (180+),1,Potential / Occasional
+C00684,Ashley Clark,Male,44,36-45,Houston,TX,South,2021-12-27,154,5,836.46,167.29,2022-05-13,2025-01-26,Cool (91-180),1,Potential / Occasional
+C00685,Charles Harris,Female,28,26-35,Phoenix,AZ,West,2023-01-31,282,3,325.69,108.56,2023-02-25,2024-09-20,At Risk (180+),1,Potential / Occasional
+C00686,Joseph Martin,Male,40,36-45,Philadelphia,PA,East,2023-04-15,155,4,1241.47,310.37,2022-07-07,2025-01-25,Cool (91-180),1,Potential / Occasional
+C00687,Daniel Davis,Male,39,36-45,San Antonio,TX,South,2021-11-07,241,7,2007.14,286.73,2022-01-08,2024-10-31,At Risk (180+),3,Loyal Frequent
+C00688,Richard Martin,Female,54,46-55,San Diego,CA,West,2021-05-23,478,7,1136.8,162.4,2022-05-15,2024-03-08,At Risk (180+),3,Loyal Frequent
+C00689,Thomas Perez,Male,64,56-65,Dallas,TX,South,2021-09-01,260,4,545.23,136.31,2023-04-05,2024-10-12,At Risk (180+),1,Potential / Occasional
+C00690,William Lee,Male,35,26-35,San Jose,CA,West,2022-07-15,345,3,314.21,104.74,2022-11-16,2024-07-19,At Risk (180+),1,Potential / Occasional
+C00691,Michael Lewis,Female,47,46-55,Austin,TX,South,2024-03-27,431,3,314.47,104.82,2023-04-21,2024-04-24,At Risk (180+),1,Potential / Occasional
+C00692,John Martinez,Male,24,18-25,Jacksonville,FL,South,2021-05-14,10,1,118.99,118.99,2025-06-19,2025-06-19,Active (0-30),1,Potential / Occasional
+C00693,Mark Johnson,Female,32,26-35,Fort Worth,TX,South,2023-08-06,118,2,379.55,189.78,2023-04-03,2025-03-03,Cool (91-180),1,Potential / Occasional
+C00694,Donna Lopez,Male,52,46-55,Columbus,OH,Central,2022-08-01,359,2,158.85,79.42,2022-08-13,2024-07-05,At Risk (180+),1,Potential / Occasional
+C00695,William Williams,Female,42,36-45,Charlotte,NC,South,2021-09-23,4,4,1144.93,286.23,2022-03-05,2025-06-25,Active (0-30),1,Potential / Occasional
+C00696,Charles Hernandez,Female,53,46-55,Seattle,WA,West,2021-09-10,416,7,1584.5,226.36,2022-05-08,2024-05-09,At Risk (180+),3,Loyal Frequent
+C00697,Anthony Garcia,Female,63,56-65,Denver,CO,West,2021-04-05,18,11,6986.59,635.14,2022-07-19,2025-06-11,Active (0-30),0,High-Value Champions
+C00698,Richard Jones,Female,69,65+,Boston,MA,East,2021-12-02,514,2,598.88,299.44,2022-05-22,2024-02-01,At Risk (180+),2,Low-Value / At-Risk
+C00699,Paul Lewis,Female,23,18-25,Nashville,TN,South,2023-06-18,398,2,278.9,139.45,2022-08-16,2024-05-27,At Risk (180+),1,Potential / Occasional
+C00700,Lisa Taylor,Female,51,46-55,Detroit,MI,Central,2023-11-15,397,2,214.45,107.22,2022-03-12,2024-05-28,At Risk (180+),1,Potential / Occasional
+C00701,Steven Robinson,Male,42,36-45,New York,NY,East,2023-07-06,514,1,214.19,214.19,2024-02-01,2024-02-01,At Risk (180+),2,Low-Value / At-Risk
+C00702,Sarah Clark,Female,29,26-35,Los Angeles,CA,West,2024-01-08,57,7,1940.14,277.16,2022-04-12,2025-05-03,Warm (31-90),3,Loyal Frequent
+C00703,David Rodriguez,Male,30,26-35,Chicago,IL,Central,2021-05-08,948,1,209.03,209.03,2022-11-24,2022-11-24,At Risk (180+),2,Low-Value / At-Risk
+C00704,Donald Sanchez,Female,35,26-35,Houston,TX,South,2022-06-27,75,8,3391.55,423.94,2022-05-12,2025-04-15,Warm (31-90),3,Loyal Frequent
+C00705,Charles White,Male,23,18-25,Phoenix,AZ,West,2023-09-16,53,11,4612.95,419.36,2022-04-20,2025-05-07,Warm (31-90),3,Loyal Frequent
+C00706,Nancy Sanchez,Male,19,18-25,Philadelphia,PA,East,2022-11-03,977,1,299.12,299.12,2022-10-26,2022-10-26,At Risk (180+),2,Low-Value / At-Risk
+C00707,Linda Anderson,Male,48,46-55,San Antonio,TX,South,2023-12-20,449,2,280.64,140.32,2022-01-31,2024-04-06,At Risk (180+),1,Potential / Occasional
+C00708,Robert Jones,Female,51,46-55,San Diego,CA,West,2023-10-08,297,4,844.93,211.23,2022-01-28,2024-09-05,At Risk (180+),1,Potential / Occasional
+C00709,Joseph Ramirez,Male,28,26-35,Dallas,TX,South,2023-02-17,455,2,155.83,77.91,2022-06-05,2024-03-31,At Risk (180+),1,Potential / Occasional
+C00710,Betty Ramirez,Male,73,65+,San Jose,CA,West,2022-11-21,695,2,339.56,169.78,2022-11-08,2023-08-04,At Risk (180+),2,Low-Value / At-Risk
+C00711,Emily Lopez,Male,26,26-35,Austin,TX,South,2022-04-02,1157,1,38.91,38.91,2022-04-29,2022-04-29,At Risk (180+),2,Low-Value / At-Risk
+C00712,Jennifer Sanchez,Male,45,36-45,Jacksonville,FL,South,2024-01-28,689,4,1694.79,423.7,2022-02-21,2023-08-10,At Risk (180+),2,Low-Value / At-Risk
+C00713,Betty Smith,Male,24,18-25,Fort Worth,TX,South,2021-07-09,714,4,727.46,181.86,2022-10-30,2023-07-16,At Risk (180+),2,Low-Value / At-Risk
+C00714,Thomas Moore,Female,50,46-55,Columbus,OH,Central,2024-01-09,1223,1,174.94,174.94,2022-02-22,2022-02-22,At Risk (180+),2,Low-Value / At-Risk
+C00715,Linda Anderson,Male,69,65+,Charlotte,NC,South,2023-02-24,812,2,316.96,158.48,2022-02-24,2023-04-09,At Risk (180+),2,Low-Value / At-Risk
+C00716,Lisa Perez,Female,55,46-55,Seattle,WA,West,2023-03-31,515,2,376.96,188.48,2023-12-24,2024-01-31,At Risk (180+),2,Low-Value / At-Risk
+C00717,Thomas Jackson,Female,52,46-55,Denver,CO,West,2023-12-23,883,2,271.16,135.58,2022-04-30,2023-01-28,At Risk (180+),2,Low-Value / At-Risk
+C00718,Matthew Clark,Female,39,36-45,Boston,MA,East,2022-06-03,220,4,1759.59,439.9,2022-08-08,2024-11-21,At Risk (180+),1,Potential / Occasional
+C00719,Lisa Brown,Female,39,36-45,Nashville,TN,South,2022-03-31,918,2,129.5,64.75,2022-01-01,2022-12-24,At Risk (180+),2,Low-Value / At-Risk
+C00720,Joseph Thomas,Male,44,36-45,Detroit,MI,Central,2022-05-25,418,2,228.0,114.0,2023-12-09,2024-05-07,At Risk (180+),1,Potential / Occasional
+C00721,Mary Martin,Male,32,26-35,New York,NY,East,2022-02-09,36,7,1786.61,255.23,2022-10-04,2025-05-24,Warm (31-90),3,Loyal Frequent
+C00722,Emily Hernandez,Female,73,65+,Los Angeles,CA,West,2022-10-23,232,4,1105.88,276.47,2022-06-13,2024-11-09,At Risk (180+),1,Potential / Occasional
+C00723,Michelle Davis,Male,38,36-45,Chicago,IL,Central,2023-06-20,679,1,271.84,271.84,2023-08-20,2023-08-20,At Risk (180+),2,Low-Value / At-Risk
+C00724,Robert Lee,Female,70,65+,Houston,TX,South,2021-08-30,681,1,200.43,200.43,2023-08-18,2023-08-18,At Risk (180+),2,Low-Value / At-Risk
+C00725,Sandra Robinson,Male,49,46-55,Phoenix,AZ,West,2021-12-04,31,8,3316.67,414.58,2022-05-29,2025-05-29,Warm (31-90),3,Loyal Frequent
+C00726,Karen Lee,Male,66,65+,Philadelphia,PA,East,2021-06-13,7,8,4388.84,548.6,2022-03-13,2025-06-22,Active (0-30),3,Loyal Frequent
+C00727,Anthony Brown,Female,38,36-45,San Antonio,TX,South,2022-12-01,150,9,5661.33,629.04,2022-05-19,2025-01-30,Cool (91-180),3,Loyal Frequent
+C00728,William Johnson,Male,70,65+,San Diego,CA,West,2021-11-04,53,9,2915.07,323.9,2022-10-01,2025-05-07,Warm (31-90),3,Loyal Frequent
+C00729,John Martinez,Male,69,65+,Dallas,TX,South,2022-05-25,396,2,332.51,166.26,2023-02-25,2024-05-29,At Risk (180+),1,Potential / Occasional
+C00730,Ashley Brown,Female,57,56-65,San Jose,CA,West,2022-09-16,76,3,253.61,84.54,2022-01-18,2025-04-14,Warm (31-90),1,Potential / Occasional
+C00731,Michael Davis,Female,30,26-35,Austin,TX,South,2022-07-08,21,5,1115.31,223.06,2022-12-13,2025-06-08,Active (0-30),1,Potential / Occasional
+C00732,Paul Jones,Female,34,26-35,Jacksonville,FL,South,2022-09-17,1222,1,170.82,170.82,2022-02-23,2022-02-23,At Risk (180+),2,Low-Value / At-Risk
+C00733,Matthew Anderson,Male,18,18-25,Fort Worth,TX,South,2024-02-18,1011,1,77.68,77.68,2022-09-22,2022-09-22,At Risk (180+),2,Low-Value / At-Risk
+C00734,Lisa Perez,Male,46,46-55,Columbus,OH,Central,2024-02-28,29,6,2416.28,402.71,2022-07-22,2025-05-31,Active (0-30),3,Loyal Frequent
+C00735,Paul Wilson,Female,57,56-65,Charlotte,NC,South,2024-01-26,86,2,63.71,31.86,2024-09-11,2025-04-04,Warm (31-90),1,Potential / Occasional
+C00736,Donna White,Female,72,65+,Seattle,WA,West,2023-02-28,86,6,1578.33,263.06,2022-06-18,2025-04-04,Warm (31-90),3,Loyal Frequent
+C00737,Elizabeth Lewis,Male,39,36-45,Denver,CO,West,2023-03-13,472,4,814.0,203.5,2022-07-27,2024-03-14,At Risk (180+),1,Potential / Occasional
+C00738,Anthony Lee,Male,34,26-35,Boston,MA,East,2021-07-19,186,1,69.01,69.01,2024-12-25,2024-12-25,At Risk (180+),1,Potential / Occasional
+C00739,Michael Clark,Male,62,56-65,Nashville,TN,South,2023-08-14,661,2,297.79,148.89,2022-05-04,2023-09-07,At Risk (180+),2,Low-Value / At-Risk
+C00740,Ashley Martin,Male,61,56-65,Detroit,MI,Central,2022-04-12,94,1,74.11,74.11,2025-03-27,2025-03-27,Cool (91-180),1,Potential / Occasional
+C00741,Anthony Rodriguez,Male,25,18-25,New York,NY,East,2022-03-25,57,7,1653.91,236.27,2022-08-29,2025-05-03,Warm (31-90),3,Loyal Frequent
+C00742,John Thompson,Male,40,36-45,Los Angeles,CA,West,2023-04-25,563,1,357.71,357.71,2023-12-14,2023-12-14,At Risk (180+),2,Low-Value / At-Risk
+C00743,Lisa Miller,Female,68,65+,Chicago,IL,Central,2021-02-12,199,4,1145.43,286.36,2022-05-20,2024-12-12,At Risk (180+),1,Potential / Occasional
+C00744,Mark Anderson,Male,34,26-35,Houston,TX,South,2022-02-12,749,2,308.97,154.49,2022-02-22,2023-06-11,At Risk (180+),2,Low-Value / At-Risk
+C00745,Jessica Ramirez,Female,48,46-55,Phoenix,AZ,West,2021-05-28,131,1,42.39,42.39,2025-02-18,2025-02-18,Cool (91-180),1,Potential / Occasional
+C00746,Lisa Brown,Female,69,65+,Philadelphia,PA,East,2022-01-01,687,2,110.78,55.39,2022-06-29,2023-08-12,At Risk (180+),2,Low-Value / At-Risk
+C00747,Lisa Moore,Female,68,65+,San Antonio,TX,South,2022-02-03,680,3,804.1,268.03,2022-10-09,2023-08-19,At Risk (180+),2,Low-Value / At-Risk
+C00748,Daniel Johnson,Male,22,18-25,San Diego,CA,West,2022-06-24,1001,2,200.67,100.34,2022-06-02,2022-10-02,At Risk (180+),2,Low-Value / At-Risk
+C00749,Betty Rodriguez,Female,49,46-55,Dallas,TX,South,2023-02-12,491,2,257.82,128.91,2022-05-19,2024-02-24,At Risk (180+),1,Potential / Occasional
+C00750,Richard Brown,Male,55,46-55,San Jose,CA,West,2022-06-04,145,2,136.34,68.17,2023-06-06,2025-02-04,Cool (91-180),1,Potential / Occasional
+C00751,Sandra Williams,Female,34,26-35,Austin,TX,South,2023-09-19,3,2,289.98,144.99,2023-03-22,2025-06-26,Active (0-30),1,Potential / Occasional
+C00752,Susan Lee,Female,19,18-25,Jacksonville,FL,South,2021-12-26,44,11,6315.24,574.11,2022-02-05,2025-05-16,Warm (31-90),0,High-Value Champions
+C00753,Joshua Smith,Male,66,65+,Fort Worth,TX,South,2022-04-08,327,4,1322.99,330.75,2022-02-07,2024-08-06,At Risk (180+),1,Potential / Occasional
+C00754,Patricia Sanchez,Female,58,56-65,Columbus,OH,Central,2023-04-16,0,13,6124.78,471.14,2022-02-11,2025-06-29,Active (0-30),0,High-Value Champions
+C00755,Nancy Davis,Female,67,65+,Charlotte,NC,South,2021-08-05,8,19,10256.63,539.82,2022-03-08,2025-06-21,Active (0-30),0,High-Value Champions
+C00756,William Sanchez,Male,44,36-45,Seattle,WA,West,2021-05-29,13,14,7897.58,564.11,2022-02-21,2025-06-16,Active (0-30),0,High-Value Champions
+C00757,Andrew Miller,Female,70,65+,Denver,CO,West,2023-02-09,907,2,265.13,132.56,2022-02-26,2023-01-04,At Risk (180+),2,Low-Value / At-Risk
+C00758,Robert Clark,Female,49,46-55,Boston,MA,East,2021-06-09,197,2,164.34,82.17,2024-11-12,2024-12-14,At Risk (180+),1,Potential / Occasional
+C00759,Emily Miller,Male,27,26-35,Nashville,TN,South,2023-06-11,1163,1,48.17,48.17,2022-04-23,2022-04-23,At Risk (180+),2,Low-Value / At-Risk
+C00760,Donna Miller,Male,35,26-35,Detroit,MI,Central,2023-02-22,332,8,3965.88,495.74,2022-05-04,2024-08-01,At Risk (180+),3,Loyal Frequent
+C00761,Joseph Hernandez,Male,57,56-65,New York,NY,East,2021-07-02,1011,2,345.84,172.92,2022-08-20,2022-09-22,At Risk (180+),2,Low-Value / At-Risk
+C00762,Elizabeth Sanchez,Male,42,36-45,Los Angeles,CA,West,2023-04-26,50,4,1130.21,282.55,2022-08-08,2025-05-10,Warm (31-90),1,Potential / Occasional
+C00763,Joshua Smith,Male,37,36-45,Chicago,IL,Central,2023-03-01,191,1,262.52,262.52,2024-12-20,2024-12-20,At Risk (180+),1,Potential / Occasional
+C00764,Sarah Ramirez,Male,63,56-65,Houston,TX,South,2024-04-10,33,4,536.56,134.14,2022-11-28,2025-05-27,Warm (31-90),1,Potential / Occasional
+C00765,Elizabeth Jones,Female,52,46-55,Phoenix,AZ,West,2021-04-23,922,1,56.64,56.64,2022-12-20,2022-12-20,At Risk (180+),2,Low-Value / At-Risk
+C00766,Paul Rodriguez,Female,72,65+,Philadelphia,PA,East,2021-05-02,208,7,2406.16,343.74,2022-05-21,2024-12-03,At Risk (180+),3,Loyal Frequent
+C00767,Barbara Brown,Female,58,56-65,San Antonio,TX,South,2021-02-08,857,3,517.59,172.53,2022-06-18,2023-02-23,At Risk (180+),2,Low-Value / At-Risk
+C00768,Mary Jones,Male,30,26-35,San Diego,CA,West,2023-08-01,399,2,259.45,129.72,2023-05-16,2024-05-26,At Risk (180+),1,Potential / Occasional
+C00769,James Lopez,Male,25,18-25,Dallas,TX,South,2023-10-19,263,2,179.32,89.66,2024-08-21,2024-10-09,At Risk (180+),1,Potential / Occasional
+C00770,Jessica Jackson,Female,24,18-25,San Jose,CA,West,2021-10-29,251,1,94.01,94.01,2024-10-21,2024-10-21,At Risk (180+),1,Potential / Occasional
+C00771,Christopher Smith,Female,28,26-35,Austin,TX,South,2022-10-25,649,2,280.08,140.04,2023-07-19,2023-09-19,At Risk (180+),2,Low-Value / At-Risk
+C00772,Barbara Rodriguez,Female,60,56-65,Jacksonville,FL,South,2021-09-13,14,2,322.03,161.01,2023-03-25,2025-06-15,Active (0-30),1,Potential / Occasional
+C00773,Patricia Jones,Female,30,26-35,Fort Worth,TX,South,2022-06-18,415,2,185.75,92.88,2024-02-29,2024-05-10,At Risk (180+),1,Potential / Occasional
+C00774,Anthony Taylor,Male,32,26-35,Columbus,OH,Central,2023-02-09,53,5,1353.46,270.69,2022-03-25,2025-05-07,Warm (31-90),3,Loyal Frequent
+C00775,Linda White,Female,48,46-55,Charlotte,NC,South,2022-03-12,185,4,1283.03,320.76,2023-05-20,2024-12-26,At Risk (180+),1,Potential / Occasional
+C00776,Robert Thomas,Male,39,36-45,Seattle,WA,West,2021-03-29,106,8,2362.83,295.35,2022-10-29,2025-03-15,Cool (91-180),3,Loyal Frequent
+C00777,Mark Harris,Female,73,65+,Denver,CO,West,2022-02-25,20,6,1900.64,316.77,2022-03-03,2025-06-09,Active (0-30),3,Loyal Frequent
+C00778,Lisa Taylor,Male,36,36-45,Boston,MA,East,2022-05-30,707,1,176.27,176.27,2023-07-23,2023-07-23,At Risk (180+),2,Low-Value / At-Risk
+C00779,Donna Brown,Female,56,56-65,Nashville,TN,South,2021-01-23,228,8,3501.99,437.75,2022-01-17,2024-11-13,At Risk (180+),3,Loyal Frequent
+C00780,Mark Taylor,Female,54,46-55,Detroit,MI,Central,2021-04-18,941,2,144.43,72.22,2022-02-19,2022-12-01,At Risk (180+),2,Low-Value / At-Risk
+C00781,Joseph Martin,Male,33,26-35,New York,NY,East,2024-02-09,156,6,1274.36,212.39,2022-09-15,2025-01-24,Cool (91-180),3,Loyal Frequent
+C00782,John White,Female,20,18-25,Los Angeles,CA,West,2021-05-09,141,4,547.49,136.87,2022-01-18,2025-02-08,Cool (91-180),1,Potential / Occasional
+C00783,Kimberly Martinez,Male,52,46-55,Chicago,IL,Central,2022-03-25,677,2,285.85,142.93,2022-08-04,2023-08-22,At Risk (180+),2,Low-Value / At-Risk
+C00784,Sandra Lee,Female,42,36-45,Houston,TX,South,2023-05-24,24,4,1293.23,323.31,2022-08-07,2025-06-05,Active (0-30),1,Potential / Occasional
+C00785,Mary Johnson,Female,63,56-65,Phoenix,AZ,West,2023-10-31,149,7,1625.35,232.19,2022-07-05,2025-01-31,Cool (91-180),3,Loyal Frequent
+C00786,Donald Ramirez,Female,19,18-25,Philadelphia,PA,East,2021-08-19,14,8,4216.4,527.05,2022-04-18,2025-06-15,Active (0-30),3,Loyal Frequent
+C00787,Betty Wilson,Male,26,26-35,San Antonio,TX,South,2023-07-26,29,8,3435.28,429.41,2023-06-19,2025-05-31,Active (0-30),3,Loyal Frequent
+C00788,Michael Thomas,Female,59,56-65,San Diego,CA,West,2022-05-15,406,2,416.51,208.26,2023-08-31,2024-05-19,At Risk (180+),1,Potential / Occasional
+C00789,Mark Williams,Female,29,26-35,Dallas,TX,South,2022-08-25,418,2,77.72,38.86,2022-08-07,2024-05-07,At Risk (180+),1,Potential / Occasional
+C00790,Jennifer Hernandez,Male,74,65+,San Jose,CA,West,2021-07-28,170,4,962.79,240.7,2022-02-07,2025-01-10,Cool (91-180),1,Potential / Occasional
+C00791,Joshua Jones,Male,68,65+,Austin,TX,South,2023-11-10,455,6,1852.96,308.83,2022-07-24,2024-03-31,At Risk (180+),3,Loyal Frequent
+C00792,Robert Jones,Male,36,36-45,Jacksonville,FL,South,2023-10-12,524,1,171.92,171.92,2024-01-22,2024-01-22,At Risk (180+),2,Low-Value / At-Risk
+C00793,Sarah Martin,Male,64,56-65,Fort Worth,TX,South,2024-01-30,610,5,1163.57,232.71,2022-05-30,2023-10-28,At Risk (180+),2,Low-Value / At-Risk
+C00794,Donna Moore,Female,41,36-45,Columbus,OH,Central,2024-03-01,3,4,1302.67,325.67,2022-03-26,2025-06-26,Active (0-30),1,Potential / Occasional
+C00795,Christopher Gonzalez,Female,54,46-55,Charlotte,NC,South,2023-10-11,151,4,894.03,223.51,2022-11-19,2025-01-29,Cool (91-180),1,Potential / Occasional
+C00796,Joshua Taylor,Female,38,36-45,Seattle,WA,West,2023-04-02,140,6,1967.57,327.93,2022-02-27,2025-02-09,Cool (91-180),3,Loyal Frequent
+C00797,Charles Anderson,Female,21,18-25,Denver,CO,West,2021-07-21,21,6,1388.78,231.46,2022-02-07,2025-06-08,Active (0-30),3,Loyal Frequent
+C00798,Steven Martin,Female,37,36-45,Boston,MA,East,2021-07-07,355,7,1576.64,225.23,2022-05-27,2024-07-09,At Risk (180+),3,Loyal Frequent
+C00799,Margaret Brown,Female,21,18-25,Nashville,TN,South,2021-09-30,61,4,866.04,216.51,2023-01-25,2025-04-29,Warm (31-90),1,Potential / Occasional
+C00800,Linda Ramirez,Female,54,46-55,Detroit,MI,Central,2022-06-10,104,4,1378.72,344.68,2022-01-29,2025-03-17,Cool (91-180),1,Potential / Occasional
