@@ -1,74 +1,63 @@
-# 📊 Customer Analytics & Segmentation (with K-Means)
+# 📊 Customer Analytics & Segmentation
 
-End-to-end Customer Analytics project that combines **business analytics** with **Machine Learning** (K-Means clustering) to segment customers and drive actionable insights.
-
-**Stack:** SQL → Python (Pandas + Scikit-learn) → Power BI
+End-to-end Data Analytics project that transforms raw customer transactions into actionable business insights using **SQL**, **Python**, and **Power BI**.
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes customer purchase behavior using RFM (Recency, Frequency, Monetary) metrics and applies **K-Means clustering** to create meaningful customer segments:
+This project analyzes 800 customers and 3,700+ transactions (2022–2025) to answer key business questions related to customer demographics, purchase behavior, lifetime value, churn risk, and customer segmentation.
 
-- **High-Value Champions**
-- **Loyal Frequent**
-- **Potential / Occasional**
-- **Low-Value / At-Risk**
+The complete pipeline follows a real-world data analyst workflow:
 
-It demonstrates how a Data Analyst can use Machine Learning in a practical business context (not just a pure ML project).
+**SQL → Python (Pandas + Scikit-learn) → Power BI Dashboard**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (MySQL)** – Customer & transaction analysis
-- **Python** – EDA, RFM engineering, K-Means clustering
+- **SQL (MySQL)** – Data extraction and business analysis
+- **Python** – Data cleaning, exploratory data analysis (EDA), and visualization
 - **Pandas & NumPy** – Data manipulation
-- **Scikit-learn** – K-Means clustering & evaluation
-- **Matplotlib & Seaborn** – Visualizations
-- **Power BI** – Interactive segmentation dashboard
+- **Scikit-learn** – K-Means clustering for customer segmentation
+- **Matplotlib & Seaborn** – Charts and visual insights
+- **Power BI** – Interactive Customer Analytics Dashboard
+- **Git & GitHub** – Version control and project showcase
 
 ---
 
-## ✨ What This Project Covers
+## ✨ Key Features
 
-### Business Analytics
-- Customer demographics (Gender, Age Group, Region)
-- Purchase frequency & repeat customers
-- Average Order Value (AOV)
-- Customer Lifetime Value (proxy via Monetary)
-- Recency & churn indicators (Active / Warm / Cool / At-Risk)
-
-### Machine Learning
-- RFM feature engineering
-- Feature scaling
-- K-Means clustering
-- Silhouette score for choosing number of clusters
-- Business interpretation of clusters → named segments
+- Overall Customer KPIs (Total Customers, Revenue, AOV, Frequency)
+- Customer Demographics Analysis (Gender, Age Group, Region)
+- Purchase Frequency & Repeat Customer Analysis
+- Customer Lifetime Value (CLV proxy)
+- Recency & Churn Indicators
+- RFM Analysis (Recency, Frequency, Monetary)
+- K-Means Clustering for Customer Segmentation
+- Interactive Power BI Dashboard with multiple pages
 
 ---
 
-## 📈 Key Insights (from sample data)
+## 📈 Key Insights
 
-- ~9% of customers are **High-Value Champions** but contribute a disproportionately high share of revenue
-- A large group of customers show long recency → clear **churn / win-back** opportunity
-- Repeat purchase rate is strong, but many customers remain in the low-frequency segment
+- High-Value Champions represent a small percentage of customers but contribute a large share of total revenue
+- A significant portion of customers fall into the At-Risk segment based on long recency
+- Repeat customers form the majority of the customer base
 - Clear behavioral differences exist across the four K-Means segments
+- RFM metrics effectively separate high-value customers from low-engagement ones
+- Targeted win-back and retention strategies can be applied based on segment profiles
 
 ---
 
 ## 📁 Project Structure
 
 ```
-customer_analytics_segmentation/
+Customer-Analytics-Segmentation/
 ├── data/
 │   ├── customers.csv
 │   ├── transactions.csv
-│   ├── customer_transactions.csv
 │   └── summaries/
-│       ├── customer_segments.csv      ← main file for Power BI
-│       ├── segment_summary.csv
-│       └── transactions_with_segment.csv
 ├── sql/
 │   ├── 01_schema_and_load.sql
 │   └── 02_analysis_queries.sql
@@ -76,71 +65,82 @@ customer_analytics_segmentation/
 │   ├── 01_customer_segmentation.py
 │   └── charts/
 ├── powerbi/
-│   └── (place your .pbix here)
+│   └── Customer_Analytics_Segmentation_Dashboard.pbix
 ├── docs/
 │   └── PowerBI_Dashboard_Guide.md
+├── images/
+│   ├── sql/
+│   ├── python/
+│   └── powerbi/
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Project
 
-### 1. SQL (MySQL)
-```sql
--- Create database & tables (see sql/01_schema_and_load.sql)
--- Import customers.csv and transactions.csv
--- Run queries in sql/02_analysis_queries.sql
-```
+### 1. SQL Analysis (MySQL)
+- Create the database and tables using `sql/01_schema_and_load.sql`
+- Import `data/customers.csv` and `data/transactions.csv`
+- Run the analysis queries from `sql/02_analysis_queries.sql`
 
-### 2. Python
+### 2. Python Analysis
 ```bash
 pip install -r requirements.txt
 python python/01_customer_segmentation.py
 ```
-This will:
-- Calculate RFM metrics
-- Run K-Means clustering
-- Generate charts
-- Export `customer_segments.csv` for Power BI
 
-### 3. Power BI
-- Follow `docs/PowerBI_Dashboard_Guide.md`
-- Load `data/summaries/customer_segments.csv`
-- Build pages: Overview → Segment Deep Dive → Demographics → Recommendations
-- Save as `Customer_Analytics_Segmentation_Dashboard.pbix`
+### 3. Power BI Dashboard
+- Open `powerbi/Customer_Analytics_Segmentation_Dashboard.pbix` in Power BI Desktop
+- Or follow the step-by-step guide in `docs/PowerBI_Dashboard_Guide.md`
 
 ---
 
-## 📊 Recommended Power BI Pages
+## 📊 Dashboard Pages (Power BI)
 
-1. **Executive Overview** – KPIs + Segment distribution + Revenue by Segment  
-2. **Segment Deep Dive** – RFM profiles of each segment  
-3. **Demographics & Behavior** – Gender, Age, Region by Segment + Recency status  
-4. **Actions / Recommendations** – Focus on High-Value retention and At-Risk win-back  
+1. **Executive Overview** – KPIs, Customers by Segment, Revenue by Segment  
+2. **Segment Deep Dive** – RFM profiles and behavioral comparison of segments  
+3. **Demographics & Behavior** – Gender, Age Group, Region and Recency status  
+4. **Recommendations** – Actionable strategies for each customer segment  
 
 ---
 
-## 🎯 Why This Project Stands Out
+## 🖼️ Screenshots
 
-- Combines classic business metrics with unsupervised Machine Learning
-- Shows the full analyst workflow: data → SQL → Python/ML → dashboard
-- Produces clear, actionable customer segments that marketing/CRM teams can use
-- Perfect complement to a Sales Performance dashboard in a portfolio
+### Power BI Dashboard
+![Executive Overview](images/powerbi/01_executive_overview.png)
+![Segment Deep Dive](images/powerbi/02_segment_deep_dive.png)
+![Demographics & Behavior](images/powerbi/03_demographics_behavior.png)
+![Recommendations](images/powerbi/04_recommendations.png)
+
+### SQL Analysis
+![Overall KPIs](images/sql/01_overall_kpis.png)
+![Frequency Bands](images/sql/02_frequency_bands.png)
+![Repeat Customers](images/sql/03_repeat_customers.png)
+![Recency Status](images/sql/04_recency_status.png)
+![Top Customers](images/sql/05_top_customers.png)
+
+### Python Visualizations
+![Segment Distribution](images/python/01_segment_distribution.png)
+![RFM by Segment](images/python/02_rfm_by_segment.png)
+![Frequency vs Monetary](images/python/03_frequency_vs_monetary.png)
+![Recency Status](images/python/04_recency_status.png)
+![Gender by Segment](images/python/05_gender_by_segment.png)
+![Revenue by Segment](images/python/06_revenue_by_segment.png)
 
 ---
 
 ## 👤 Author
 
-**Your Name**  
+**Mubeen Salman**  
 Aspiring Data Analyst  
 
-- LinkedIn: [Your LinkedIn]  
-- GitHub: [Your GitHub]
+- LinkedIn: [https://www.linkedin.com/in/mubeen-salman-459776364/]  
+- GitHub: [https://github.com/MuhammadMubeen04]  
 
 ---
 
 ## 📄 License
 
-Educational & portfolio use.
+This project is for educational and portfolio purposes.
